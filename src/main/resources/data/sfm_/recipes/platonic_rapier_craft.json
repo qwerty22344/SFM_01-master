@@ -1,0 +1,24 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "sfm_:plutinumsmall"
+    },
+    "4": {
+      "item": "sfm_:plutinumsmall"
+    },
+    "6": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "sfm_:platonic_rapier",
+    "count": 1
+  }
+}

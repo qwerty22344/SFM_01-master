@@ -1,0 +1,39 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:netheritescrap"
+    },
+    "1": {
+      "item": "sfm_:netheritescrap"
+    },
+    "2": {
+      "item": "sfm_:netheritescrap"
+    },
+    "3": {
+      "item": "sfm_:netheritescrap"
+    },
+    "4": {
+      "item": "minecraft:gold_ingot"
+    },
+    "5": {
+      "item": "minecraft:gold_ingot"
+    },
+    "6": {
+      "item": "minecraft:gold_ingot"
+    },
+    "7": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "sfm_:netheriteingot",
+    "count": 1
+  }
+}

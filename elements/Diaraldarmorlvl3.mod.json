@@ -1,0 +1,69 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "dialardhelmet",
+    "enableBody": true,
+    "textureBody": "dialardbody",
+    "enableLeggings": true,
+    "textureLeggings": "dialardleg",
+    "enableBoots": true,
+    "textureBoots": "dialardboots",
+    "onHelmetTick": {
+      "name": "Diaraldarmorlvl3HelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "Diaraldarmorlvl3BodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "Diaraldarmorlvl3HelmetTickEvent"
+    },
+    "onBootsTick": {
+      "name": "Diaraldarmorlvl3HelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "armorTextureFile": "dialardarmor",
+    "helmetName": "Diarald Helmet (LvL 3)",
+    "bodyName": "Diarald Chestplate (LvL 3)",
+    "leggingsName": "Diarald Leggings (LvL 3)",
+    "bootsName": "Diarald Boots (LvL 3)",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 5,
+    "damageValueBody": 9,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 4,
+    "enchantability": 10,
+    "toughness": 2.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Diarald"
+      }
+    ]
+  }
+}

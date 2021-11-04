@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sfm_:blocks/smithing_table_bottom",
+    "up": "sfm_:blocks/smithing_table_top",
+    "north": "sfm_:blocks/smithing_table_front",
+    "east": "sfm_:blocks/smithing_table_side",
+    "south": "sfm_:blocks/smithing_table_front",
+    "west": "sfm_:blocks/smithing_table_side",
+    "particle": "sfm_:blocks/smithing_table_bottom"
+  }
+}

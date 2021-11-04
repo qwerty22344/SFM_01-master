@@ -1,0 +1,26 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:ruby"
+    },
+    "2": {
+      "item": "sfm_:ruby"
+    },
+    "3": {
+      "item": "sfm_:ruby"
+    },
+    "5": {
+      "item": "sfm_:ruby"
+    }
+  },
+  "result": {
+    "item": "sfm_:rubyarmor_boots",
+    "count": 1
+  }
+}

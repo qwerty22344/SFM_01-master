@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sfm_:blocks/sto333333ne",
+    "up": "sfm_:blocks/sto333333ne",
+    "north": "sfm_:blocks/sto333333ne",
+    "east": "sfm_:blocks/sto333333ne",
+    "south": "sfm_:blocks/sto333333ne",
+    "west": "sfm_:blocks/sto333333ne",
+    "particle": "sfm_:blocks/sto333333ne"
+  }
+}

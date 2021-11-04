@@ -1,0 +1,16 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:denselapis"
+    }
+  },
+  "result": {
+    "item": "minecraft:lapis_lazuli",
+    "count": 4
+  }
+}

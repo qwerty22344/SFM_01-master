@@ -1,0 +1,19 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sfm_:copper"
+    },
+    {
+      "item": "sfm_:copper"
+    },
+    {
+      "item": "sfm_:tinore"
+    }
+  ],
+  "result": {
+    "item": "sfm_:bronze",
+    "count": 1
+  }
+}

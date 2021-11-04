@@ -1,0 +1,13 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sfm_:tin_block"
+    }
+  ],
+  "result": {
+    "item": "sfm_:tinore",
+    "count": 9
+  }
+}

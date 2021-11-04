@@ -1,0 +1,13 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sfm_:rubyblock"
+    }
+  ],
+  "result": {
+    "item": "sfm_:ruby",
+    "count": 9
+  }
+}

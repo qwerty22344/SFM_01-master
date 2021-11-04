@@ -1,0 +1,30 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:denselapis"
+    },
+    "1": {
+      "item": "sfm_:denselapis"
+    },
+    "2": {
+      "item": "sfm_:denselapis"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sfm_:lapispickaxe",
+    "count": 1
+  }
+}

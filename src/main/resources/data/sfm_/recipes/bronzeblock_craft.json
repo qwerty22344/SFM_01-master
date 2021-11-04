@@ -1,0 +1,42 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:bronze"
+    },
+    "1": {
+      "item": "sfm_:bronze"
+    },
+    "2": {
+      "item": "sfm_:bronze"
+    },
+    "3": {
+      "item": "sfm_:bronze"
+    },
+    "4": {
+      "item": "sfm_:bronze"
+    },
+    "5": {
+      "item": "sfm_:bronze"
+    },
+    "6": {
+      "item": "sfm_:bronze"
+    },
+    "7": {
+      "item": "sfm_:bronze"
+    },
+    "8": {
+      "item": "sfm_:bronze"
+    }
+  },
+  "result": {
+    "item": "sfm_:bronze_block",
+    "count": 1
+  }
+}

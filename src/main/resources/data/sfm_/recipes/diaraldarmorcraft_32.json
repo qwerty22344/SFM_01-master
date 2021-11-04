@@ -1,0 +1,42 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "1": {
+      "item": "sfm_:diarald"
+    },
+    "2": {
+      "item": "minecraft:emerald"
+    },
+    "3": {
+      "item": "sfm_:diarald"
+    },
+    "4": {
+      "item": "sfm_:diarald_armor_lvl_2_chestplate"
+    },
+    "5": {
+      "item": "sfm_:diarald"
+    },
+    "6": {
+      "item": "minecraft:diamond"
+    },
+    "7": {
+      "item": "sfm_:diarald"
+    },
+    "8": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "sfm_:diaraldarmorlvl_3_chestplate",
+    "count": 1
+  }
+}

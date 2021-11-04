@@ -1,0 +1,13 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sfm_:netherite_block"
+    }
+  ],
+  "result": {
+    "item": "sfm_:netheriteingot",
+    "count": 9
+  }
+}

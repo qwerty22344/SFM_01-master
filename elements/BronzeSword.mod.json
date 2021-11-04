@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bronzesword",
+    "customModelName": "Normal",
+    "name": "Bronze Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Sfmmod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 7.0,
+    "attackSpeed": 1.6,
+    "enchantability": 14,
+    "damageVsEntity": 5.1,
+    "usageCount": 325,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Bronze"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

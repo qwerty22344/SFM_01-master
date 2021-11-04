@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "sfm_:netherite_sword"
+    },
+    "title": {
+      "translate": "advancements.netherite_ds.title"
+    },
+    "description": {
+      "translate": "advancements.netherite_ds.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "netherite_ds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sfm_:netherite_sword",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "sfm_:netherite_ore_ds"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sfm_:blocks/emerald_ore",
+    "up": "sfm_:blocks/emerald_ore",
+    "north": "sfm_:blocks/emerald_ore",
+    "east": "sfm_:blocks/emerald_ore",
+    "south": "sfm_:blocks/emerald_ore",
+    "west": "sfm_:blocks/emerald_ore",
+    "particle": "sfm_:blocks/emerald_ore"
+  }
+}

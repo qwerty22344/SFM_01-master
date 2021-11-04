@@ -1,0 +1,39 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:denselapis"
+    },
+    "2": {
+      "item": "sfm_:denselapis"
+    },
+    "3": {
+      "item": "sfm_:denselapis"
+    },
+    "4": {
+      "item": "sfm_:denselapis"
+    },
+    "5": {
+      "item": "sfm_:denselapis"
+    },
+    "6": {
+      "item": "sfm_:denselapis"
+    },
+    "7": {
+      "item": "sfm_:denselapis"
+    },
+    "8": {
+      "item": "sfm_:denselapis"
+    }
+  },
+  "result": {
+    "item": "sfm_:lapisarmor_chestplate",
+    "count": 1
+  }
+}

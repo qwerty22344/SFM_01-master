@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ruby_hoe",
+    "customModelName": "Normal",
+    "name": "Ruby Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Sfmmod"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 1,
+    "efficiency": 13.0,
+    "attackSpeed": 4.0,
+    "enchantability": 0,
+    "damageVsEntity": 4.0,
+    "usageCount": 1452,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ruby"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

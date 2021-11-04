@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sfm_:blocks/netherite_block",
+    "up": "sfm_:blocks/netherite_block",
+    "north": "sfm_:blocks/netherite_block",
+    "east": "sfm_:blocks/netherite_block",
+    "south": "sfm_:blocks/netherite_block",
+    "west": "sfm_:blocks/netherite_block",
+    "particle": "sfm_:blocks/netherite_block"
+  }
+}

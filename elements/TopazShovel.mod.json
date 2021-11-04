@@ -1,0 +1,26 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "topaz_shovel",
+    "customModelName": "Normal",
+    "name": "Topaz Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Sfmmod"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 1,
+    "efficiency": 8.0,
+    "attackSpeed": 1.0,
+    "enchantability": 3,
+    "damageVsEntity": 3.0,
+    "usageCount": 970,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

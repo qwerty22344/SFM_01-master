@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sfm_:blocks/ancient_debris_top",
+    "up": "sfm_:blocks/ancient_debris_top",
+    "north": "sfm_:blocks/ancient_debris_side",
+    "east": "sfm_:blocks/ancient_debris_side",
+    "south": "sfm_:blocks/ancient_debris_side",
+    "west": "sfm_:blocks/ancient_debris_side",
+    "particle": "sfm_:blocks/ancient_debris_top"
+  }
+}

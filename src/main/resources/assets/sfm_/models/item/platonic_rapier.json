@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "sfm_:items/b1111111iez_imieni-1"
+  }
+}

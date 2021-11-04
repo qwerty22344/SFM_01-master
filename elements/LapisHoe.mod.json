@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "lapishoe",
+    "customModelName": "Normal",
+    "name": "Lapis Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Sfmmod"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 4.0,
+    "enchantability": 0,
+    "damageVsEntity": 4.0,
+    "usageCount": 512,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.DYE#4"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

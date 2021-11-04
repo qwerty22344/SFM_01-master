@@ -1,0 +1,30 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:bronze"
+    },
+    "1": {
+      "item": "sfm_:bronze"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "sfm_:bronze"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sfm_:bronze_axe",
+    "count": 1
+  }
+}

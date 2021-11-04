@@ -1,0 +1,24 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:ruby"
+    },
+    "1": {
+      "item": "sfm_:ruby"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sfm_:rubysword",
+    "count": 1
+  }
+}

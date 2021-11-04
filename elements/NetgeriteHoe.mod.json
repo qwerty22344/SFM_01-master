@@ -1,0 +1,32 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "netherite_hoe",
+    "customModelName": "Normal",
+    "name": "Netgerite Hoe",
+    "specialInfo": [
+      "Она и сейчас безполезная!"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Sfmmod"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 0,
+    "efficiency": 9.0,
+    "attackSpeed": 4.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 2031,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Netheriteingot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

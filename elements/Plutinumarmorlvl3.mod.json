@@ -1,0 +1,69 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "1",
+    "enableBody": true,
+    "textureBody": "4",
+    "enableLeggings": true,
+    "textureLeggings": "2",
+    "enableBoots": true,
+    "textureBoots": "3_2",
+    "onHelmetTick": {
+      "name": "Plutinumarmorlvl3HelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "Plutinumarmorlvl3BodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "Plutinumarmorlvl3HelmetTickEvent"
+    },
+    "onBootsTick": {
+      "name": "Plutinumarmorlvl3HelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "armorTextureFile": "plutinum_armor",
+    "helmetName": "Plutinumarmorlvl 3 Helmet",
+    "bodyName": "Plutinumarmorlvl 3 Body",
+    "leggingsName": "Plutinumarmorlvl 3 Leggings",
+    "bootsName": "Plutinumarmorlvl 3 Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 18,
+    "damageValueHelmet": 2,
+    "damageValueBody": 7,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 2,
+    "enchantability": 10,
+    "toughness": 1.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Plutinum"
+      }
+    ]
+  }
+}

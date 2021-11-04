@@ -1,0 +1,39 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:plutinum"
+    },
+    "2": {
+      "item": "sfm_:plutinum"
+    },
+    "3": {
+      "item": "sfm_:plutinum"
+    },
+    "4": {
+      "item": "sfm_:plutinum"
+    },
+    "5": {
+      "item": "sfm_:plutinum"
+    },
+    "6": {
+      "item": "sfm_:plutinum"
+    },
+    "7": {
+      "item": "sfm_:plutinum"
+    },
+    "8": {
+      "item": "sfm_:plutinum"
+    }
+  },
+  "result": {
+    "item": "sfm_:plutinumarmor_chestplate",
+    "count": 1
+  }
+}

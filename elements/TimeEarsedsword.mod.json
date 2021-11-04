@@ -1,0 +1,31 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "time228",
+    "customModelName": "Normal",
+    "name": "Time Cutter",
+    "specialInfo": [
+      "Skips 10 seconds of time"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Sfmmod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 12.0,
+    "attackSpeed": 1.5,
+    "enchantability": 10,
+    "damageVsEntity": 21.0,
+    "usageCount": 1982,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "TimeEarsedswordKoghdaNazhataPkmPoVozdukhu"
+    }
+  }
+}

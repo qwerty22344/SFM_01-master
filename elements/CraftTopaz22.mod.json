@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Topaz"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Topaz"
+      },
+      {
+        "value": "CUSTOM:Topazarmor.body"
+      },
+      {
+        "value": "CUSTOM:Topaz"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Topaz"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TopazArmor2lvl.body"
+    },
+    "name": "craft_topaz_22",
+    "namespace": "mod"
+  }
+}

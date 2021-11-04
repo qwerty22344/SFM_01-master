@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sfm_:blocks/enchanting_table_bottom",
+    "up": "sfm_:blocks/enchanting_table_top",
+    "north": "sfm_:blocks/232323232",
+    "east": "sfm_:blocks/232323232",
+    "south": "sfm_:blocks/232323232",
+    "west": "sfm_:blocks/232323232",
+    "particle": "sfm_:blocks/enchanting_table_bottom"
+  }
+}

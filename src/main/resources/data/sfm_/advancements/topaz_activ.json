@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "sfm_:topaz_ore"
+    },
+    "title": {
+      "translate": "advancements.topaz_activ.title"
+    },
+    "description": {
+      "translate": "advancements.topaz_activ.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "topaz_activ": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sfm_:topaz",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "sfm_:platinum_activ"
+}

@@ -1,0 +1,16 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:emerald"
+    }
+  ],
+  "result": {
+    "item": "sfm_:diarald",
+    "count": 1
+  }
+}

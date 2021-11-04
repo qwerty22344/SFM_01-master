@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sfm_:blocks/tinblock",
+    "up": "sfm_:blocks/tinblock",
+    "north": "sfm_:blocks/tinblock",
+    "east": "sfm_:blocks/tinblock",
+    "south": "sfm_:blocks/tinblock",
+    "west": "sfm_:blocks/tinblock",
+    "particle": "sfm_:blocks/tinblock"
+  }
+}

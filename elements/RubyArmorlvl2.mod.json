@@ -1,0 +1,60 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "ruby_helmet",
+    "enableBody": true,
+    "textureBody": "ruby_chestplate2",
+    "enableLeggings": true,
+    "textureLeggings": "ruby_leggins",
+    "enableBoots": true,
+    "textureBoots": "ruby_boots",
+    "onBodyTick": {
+      "name": "RubyarmorBodyTickEvent2lvl"
+    },
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "armorTextureFile": "ruby_armor",
+    "helmetName": "Ruby Helmet LvL 2",
+    "bodyName": "Ruby Chestplate LvL 2",
+    "leggingsName": "Ruby Leggings LvL 2",
+    "bootsName": "Ruby Boots LvL 2",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 23,
+    "damageValueHelmet": 3,
+    "damageValueBody": 8,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 2,
+    "enchantability": 10,
+    "toughness": 2.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ruby"
+      }
+    ]
+  }
+}

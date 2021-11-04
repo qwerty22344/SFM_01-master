@@ -1,0 +1,30 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "sfm_:plutinum"
+    },
+    "3": {
+      "item": "sfm_:plutinum"
+    },
+    "4": {
+      "item": "sfm_:plutinumarmor_leggings"
+    },
+    "5": {
+      "item": "sfm_:plutinum"
+    },
+    "7": {
+      "item": "sfm_:plutinum"
+    }
+  },
+  "result": {
+    "item": "sfm_:plutinum_armorl_lvl_2_leggings",
+    "count": 1
+  }
+}

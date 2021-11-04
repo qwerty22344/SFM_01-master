@@ -1,0 +1,39 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:diarald"
+    },
+    "2": {
+      "item": "sfm_:diarald"
+    },
+    "3": {
+      "item": "sfm_:diarald"
+    },
+    "4": {
+      "item": "sfm_:diarald"
+    },
+    "5": {
+      "item": "sfm_:diarald"
+    },
+    "6": {
+      "item": "sfm_:diarald"
+    },
+    "7": {
+      "item": "sfm_:diarald"
+    },
+    "8": {
+      "item": "sfm_:diarald"
+    }
+  },
+  "result": {
+    "item": "sfm_:dialard_armor_chestplate",
+    "count": 1
+  }
+}

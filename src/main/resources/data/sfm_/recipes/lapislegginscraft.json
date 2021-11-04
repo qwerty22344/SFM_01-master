@@ -1,0 +1,36 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:denselapis"
+    },
+    "1": {
+      "item": "sfm_:denselapis"
+    },
+    "2": {
+      "item": "sfm_:denselapis"
+    },
+    "3": {
+      "item": "sfm_:denselapis"
+    },
+    "5": {
+      "item": "sfm_:denselapis"
+    },
+    "6": {
+      "item": "sfm_:denselapis"
+    },
+    "8": {
+      "item": "sfm_:denselapis"
+    }
+  },
+  "result": {
+    "item": "sfm_:lapisarmor_leggings",
+    "count": 1
+  }
+}

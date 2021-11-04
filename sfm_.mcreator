@@ -1,0 +1,4599 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Lapissword",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapissword"
+    },
+    {
+      "name": "Lapisswordcraft",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapisswordcraft"
+    },
+    {
+      "name": "Lapispickaxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapispickaxe"
+    },
+    {
+      "name": "Lapispickaxecraft",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapispickaxecraft"
+    },
+    {
+      "name": "Lapisaxe",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapisaxe"
+    },
+    {
+      "name": "Lapisaxecraft",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapisaxecraft"
+    },
+    {
+      "name": "Lapisaxecraft2",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapisaxecraft_2"
+    },
+    {
+      "name": "LapisShovel",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_shovel"
+    },
+    {
+      "name": "LapisShovelcraft",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_shovelcraft"
+    },
+    {
+      "name": "LapisHoe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_hoe"
+    },
+    {
+      "name": "Lapishoecraft",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapishoecraft"
+    },
+    {
+      "name": "Lapishoecraft2",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapishoecraft_2"
+    },
+    {
+      "name": "Lapisarmor",
+      "type": "armor",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapisarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Lapisarmorcraft1",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapisarmorcraft_1"
+    },
+    {
+      "name": "EmiraldSword",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emirald_sword"
+    },
+    {
+      "name": "Emeraldpickaxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldpickaxe"
+    },
+    {
+      "name": "Emeraldaxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldaxe"
+    },
+    {
+      "name": "Emeraldarmor",
+      "type": "armor",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EmeraldPickaxeCraft",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_pickaxe_craft"
+    },
+    {
+      "name": "EmeraldAxeCraft",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_axe_craft"
+    },
+    {
+      "name": "EmeraldaxeCraft2",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldaxe_craft_2"
+    },
+    {
+      "name": "EmeraldSwordCraft",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_sword_craft"
+    },
+    {
+      "name": "EmeraldHoeCraft",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_hoe_craft"
+    },
+    {
+      "name": "EmeraldShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_shovel"
+    },
+    {
+      "name": "EmeraldHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_hoe"
+    },
+    {
+      "name": "EmeraldShovelCraft",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_shovel_craft"
+    },
+    {
+      "name": "EmeraldHoeCraft2",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_hoe_craft_2"
+    },
+    {
+      "name": "Copperore",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperore"
+    },
+    {
+      "name": "CopperoretoCopper",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperoreto_copper"
+    },
+    {
+      "name": "Copper",
+      "type": "item",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper"
+    },
+    {
+      "name": "Diarald",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald"
+    },
+    {
+      "name": "DiaraldCraft",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_craft"
+    },
+    {
+      "name": "DiaraldSword",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_sword"
+    },
+    {
+      "name": "DiaraldSwordCraft",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_sword_craft"
+    },
+    {
+      "name": "DiaraldPickaxe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_pickaxe"
+    },
+    {
+      "name": "DiaraldPickaxeCraft",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_pickaxe_craft"
+    },
+    {
+      "name": "DiaraldShovel",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_shovel"
+    },
+    {
+      "name": "DiaraldShovelCraft",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_shovel_craft"
+    },
+    {
+      "name": "DiaraldAxe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_axe"
+    },
+    {
+      "name": "Plutinum",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum"
+    },
+    {
+      "name": "Tinore",
+      "type": "item",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tinore"
+    },
+    {
+      "name": "DiaraldAxeCraft",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_axe_craft"
+    },
+    {
+      "name": "DiaraldAxecraft2",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_axecraft_2"
+    },
+    {
+      "name": "DiaraldHoe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_hoe"
+    },
+    {
+      "name": "DiaraldHoeCraft",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_hoe_craft"
+    },
+    {
+      "name": "DiaraldHoeCraft2",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_hoe_craft_2"
+    },
+    {
+      "name": "Bronze",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze"
+    },
+    {
+      "name": "BronzeCraft",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_craft"
+    },
+    {
+      "name": "Plutinumore",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumore"
+    },
+    {
+      "name": "Sfmmod",
+      "type": "tab",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sfmmod"
+    },
+    {
+      "name": "DialardArmor",
+      "type": "armor",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dialard_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Copperpickaxe",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperpickaxe"
+    },
+    {
+      "name": "Copperarmor",
+      "type": "armor",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PlatonicRapierCraft",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platonic_rapier_craft"
+    },
+    {
+      "name": "CopperSword",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_sword"
+    },
+    {
+      "name": "CopperShovel",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_shovel"
+    },
+    {
+      "name": "Plutinumsmall",
+      "type": "item",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumsmall"
+    },
+    {
+      "name": "Plutinumsword",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumsword"
+    },
+    {
+      "name": "CopperAxe",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_axe"
+    },
+    {
+      "name": "Copperhoe",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperhoe"
+    },
+    {
+      "name": "PlatonicRapier",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platonic_rapier"
+    },
+    {
+      "name": "BronzePickaxe",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_pickaxe"
+    },
+    {
+      "name": "BronzePickaxeCraft",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_pickaxe_craft"
+    },
+    {
+      "name": "BronzePickaxeCraft2",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_pickaxe_craft_2"
+    },
+    {
+      "name": "BronzeSword",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_sword"
+    },
+    {
+      "name": "BronzeSwordCraft",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_sword_craft"
+    },
+    {
+      "name": "BronzeSwordCraft2",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_sword_craft_2"
+    },
+    {
+      "name": "CopperPickaxeCraft",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_pickaxe_craft"
+    },
+    {
+      "name": "CopperShovelCraft",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_shovel_craft"
+    },
+    {
+      "name": "CopperHoeCraft2",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_hoe_craft_2"
+    },
+    {
+      "name": "CopperSwordCraft",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_sword_craft"
+    },
+    {
+      "name": "CopperAxeCraft",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_axe_craft"
+    },
+    {
+      "name": "CopperHoeCraft",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_hoe_craft"
+    },
+    {
+      "name": "CopperAxeCraft2",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_axe_craft_2"
+    },
+    {
+      "name": "Tinore1",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tinore_1"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby"
+    },
+    {
+      "name": "Rubyore",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyore"
+    },
+    {
+      "name": "Rubysword",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubysword"
+    },
+    {
+      "name": "BronzeShovelCraft",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_shovel_craft"
+    },
+    {
+      "name": "BronzeAxeCraft",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_axe_craft"
+    },
+    {
+      "name": "BronzeHoeCraft",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_hoe_craft"
+    },
+    {
+      "name": "BronzeHoeCraft2",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_hoe_craft_2"
+    },
+    {
+      "name": "BronzeHoeCraft3",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_hoe_craft_3"
+    },
+    {
+      "name": "BronzeAxeCraft2",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_axe_craft_2"
+    },
+    {
+      "name": "BronzeAxeCraft3",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_axe_craft_3"
+    },
+    {
+      "name": "BronzeAxe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_axe"
+    },
+    {
+      "name": "BronzeHoe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_hoe"
+    },
+    {
+      "name": "Bronzeshovel",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronzeshovel"
+    },
+    {
+      "name": "BronzeShovelCraft2",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_shovel_craft_2"
+    },
+    {
+      "name": "Tinsmall",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tinsmall"
+    },
+    {
+      "name": "RubyPickaxe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe"
+    },
+    {
+      "name": "RubySwordCraft",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword_craft"
+    },
+    {
+      "name": "RubyAxe",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe"
+    },
+    {
+      "name": "Lapischestplatecraft",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapischestplatecraft"
+    },
+    {
+      "name": "Lapislegginscraft",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapislegginscraft"
+    },
+    {
+      "name": "Lapisboots",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapisboots"
+    },
+    {
+      "name": "Denselapis",
+      "type": "item",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "denselapis"
+    },
+    {
+      "name": "Denselapiscraft",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "denselapiscraft"
+    },
+    {
+      "name": "Rubyshovel",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyshovel"
+    },
+    {
+      "name": "Rubyhoe",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyhoe"
+    },
+    {
+      "name": "Rubyaxecraft",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyaxecraft"
+    },
+    {
+      "name": "Rubyaxecraft2",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyaxecraft_2"
+    },
+    {
+      "name": "Rubyshovelcraft",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyshovelcraft"
+    },
+    {
+      "name": "Rubyhoecraft",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyhoecraft"
+    },
+    {
+      "name": "Rubyhoecraft2",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyhoecraft_2"
+    },
+    {
+      "name": "Plutinumpickaxe",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumpickaxe"
+    },
+    {
+      "name": "Plutinumpickaxecraft",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumpickaxecraft"
+    },
+    {
+      "name": "Plutinumswordcraft",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumswordcraft"
+    },
+    {
+      "name": "Plutinumaxe",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumaxe"
+    },
+    {
+      "name": "Emeraldhelmetcraft",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldhelmetcraft"
+    },
+    {
+      "name": "Emeraldchestplatecraft",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldchestplatecraft"
+    },
+    {
+      "name": "Emeraldore",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldore"
+    },
+    {
+      "name": "Plutinumaxecraft",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumaxecraft"
+    },
+    {
+      "name": "Plutinumaxecraft2",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumaxecraft_2"
+    },
+    {
+      "name": "DiaraldHelmetCraft",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_helmet_craft"
+    },
+    {
+      "name": "DiaraldHelmetCraft2",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_helmet_craft_2"
+    },
+    {
+      "name": "Emeraldbootscraft",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldbootscraft"
+    },
+    {
+      "name": "Emeraldlegginscraft",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldlegginscraft"
+    },
+    {
+      "name": "DiaraldBodyCraft",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_body_craft"
+    },
+    {
+      "name": "DiaraldLegginsCraft",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_leggins_craft"
+    },
+    {
+      "name": "DiaraldBootsCraft",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_boots_craft"
+    },
+    {
+      "name": "DiaraldBootsCraft2",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_boots_craft_2"
+    },
+    {
+      "name": "Tiningotcraft",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tiningotcraft"
+    },
+    {
+      "name": "Plutinumarmor",
+      "type": "armor",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PlutinumShovel",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_shovel"
+    },
+    {
+      "name": "PlutinumShovelCraft",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_shovel_craft"
+    },
+    {
+      "name": "Plutinumhoe",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumhoe"
+    },
+    {
+      "name": "Plutinumhoecraft",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumhoecraft"
+    },
+    {
+      "name": "Plutinumhoecraft2",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumhoecraft_2"
+    },
+    {
+      "name": "Rubyarmor",
+      "type": "armor",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Rubypickaxecrraft",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubypickaxecrraft"
+    },
+    {
+      "name": "Plutinumplavka",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumplavka"
+    },
+    {
+      "name": "Copperarmor1",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperarmor_1"
+    },
+    {
+      "name": "CopperArmor2",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_2"
+    },
+    {
+      "name": "CopperArmor3",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_3"
+    },
+    {
+      "name": "CopperArmor4",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_4"
+    },
+    {
+      "name": "Plutinumarmor1",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumarmor_1"
+    },
+    {
+      "name": "Plutinumarmor2",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumarmor_2"
+    },
+    {
+      "name": "Plutinumarmor3",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumarmor_3"
+    },
+    {
+      "name": "Plutinumarmor4",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumarmor_4"
+    },
+    {
+      "name": "Rubyarmor1",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyarmor_1"
+    },
+    {
+      "name": "Rubyarmor2",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyarmor_2"
+    },
+    {
+      "name": "Rubyarmor3",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyarmor_3"
+    },
+    {
+      "name": "Rubyarmor4",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyarmor_4"
+    },
+    {
+      "name": "BronzeArmor",
+      "type": "armor",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Topaz",
+      "type": "item",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz"
+    },
+    {
+      "name": "Topazpickaxe",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topazpickaxe"
+    },
+    {
+      "name": "Topazaxecraft",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topazaxecraft"
+    },
+    {
+      "name": "TopazAxe",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_axe"
+    },
+    {
+      "name": "Topazpickaxecraft",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topazpickaxecraft"
+    },
+    {
+      "name": "Topazsword",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topazsword"
+    },
+    {
+      "name": "BronzeBodyCraft",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_body_craft"
+    },
+    {
+      "name": "BronzeHelmetCraft3",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_helmet_craft_3"
+    },
+    {
+      "name": "BronzeHelmetCraft",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_helmet_craft"
+    },
+    {
+      "name": "BronzeHelmetCraft2",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_helmet_craft_2"
+    },
+    {
+      "name": "BronzeBodyCraft2",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_body_craft_2"
+    },
+    {
+      "name": "TopazOre",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_ore"
+    },
+    {
+      "name": "BronzelegginsCraft2",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronzeleggins_craft_2"
+    },
+    {
+      "name": "BronzeBootsCraft2",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_boots_craft_2"
+    },
+    {
+      "name": "BronzeBootsCraft",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_boots_craft"
+    },
+    {
+      "name": "DiaraldBlock",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_block"
+    },
+    {
+      "name": "BronzelegginsCraft",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronzeleggins_craft"
+    },
+    {
+      "name": "BronzebootsCraft3",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronzeboots_craft_3"
+    },
+    {
+      "name": "Rubyblock",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyblock"
+    },
+    {
+      "name": "TopazBootsCraft",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_boots_craft"
+    },
+    {
+      "name": "TopazLegginsCraft",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_leggins_craft"
+    },
+    {
+      "name": "TopazHelmetCraft2",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_helmet_craft_2"
+    },
+    {
+      "name": "TopazHelmetCraft",
+      "type": "recipe",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_helmet_craft"
+    },
+    {
+      "name": "TopazBootsCraft2",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_boots_craft_2"
+    },
+    {
+      "name": "TopazBodyCraft",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_body_craft"
+    },
+    {
+      "name": "TopazBlock",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_block"
+    },
+    {
+      "name": "Topazarmor",
+      "type": "armor",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topazarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Topazhoe",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topazhoe"
+    },
+    {
+      "name": "TopazShovel",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_shovel"
+    },
+    {
+      "name": "TopazarmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topazarmor_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CopperBlock",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_block"
+    },
+    {
+      "name": "BronzeBlock",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_block"
+    },
+    {
+      "name": "PlutinumBlock",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_block"
+    },
+    {
+      "name": "TinBlock",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_block"
+    },
+    {
+      "name": "TopazActiv",
+      "type": "achievement",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_activ"
+    },
+    {
+      "name": "CopperBlockCraft",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_block_craft"
+    },
+    {
+      "name": "RubyarmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyarmor_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BronzeblockCraft",
+      "type": "recipe",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronzeblock_craft"
+    },
+    {
+      "name": "TopazCraft",
+      "type": "recipe",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_craft"
+    },
+    {
+      "name": "Tincraft",
+      "type": "recipe",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tincraft"
+    },
+    {
+      "name": "DiaraldBlockCraft",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_block_craft"
+    },
+    {
+      "name": "PlutinumBlockCraft",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_block_craft"
+    },
+    {
+      "name": "PlutinumCraft",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_craft"
+    },
+    {
+      "name": "CopperCraft",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_craft"
+    },
+    {
+      "name": "RubyCraft",
+      "type": "recipe",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_craft"
+    },
+    {
+      "name": "EmeraldarmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmor_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RubyBlockCraft",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block_craft"
+    },
+    {
+      "name": "LapisarmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapisarmor_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TinBlockCraft",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_block_craft"
+    },
+    {
+      "name": "BronzeCraft2",
+      "type": "recipe",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_craft_2"
+    },
+    {
+      "name": "DialardArmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dialard_armor_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DiaraldCraft2",
+      "type": "recipe",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_craft_2"
+    },
+    {
+      "name": "PlutinumarmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumarmor_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TopazBlockCraft",
+      "type": "recipe",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_block_craft"
+    },
+    {
+      "name": "Topazhoecraft",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topazhoecraft"
+    },
+    {
+      "name": "Topazshovelcraft",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topazshovelcraft"
+    },
+    {
+      "name": "Topazswordcraft",
+      "type": "recipe",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topazswordcraft"
+    },
+    {
+      "name": "RubyActiv",
+      "type": "achievement",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_activ"
+    },
+    {
+      "name": "PlatinumActiv",
+      "type": "achievement",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinum_activ"
+    },
+    {
+      "name": "CooperActiv",
+      "type": "achievement",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooper_activ"
+    },
+    {
+      "name": "BronzeActiv",
+      "type": "achievement",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_activ"
+    },
+    {
+      "name": "RubyarmorBodyTickEvent2lvl",
+      "type": "procedure",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyarmor_body_tick_event_2lvl",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RubyArmorlvl2",
+      "type": "armor",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armorlvl_2",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RubyArmorlvl3",
+      "type": "armor",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armorlvl_3",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RubyArmorlvl3BodyTickEvent",
+      "type": "procedure",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armorlvl_3_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EmeraldActiv",
+      "type": "achievement",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_activ"
+    },
+    {
+      "name": "LapisActiv",
+      "type": "achievement",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_activ"
+    },
+    {
+      "name": "DiaraldActiv",
+      "type": "achievement",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_activ"
+    },
+    {
+      "name": "RapiraActiv",
+      "type": "achievement",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rapira_activ"
+    },
+    {
+      "name": "PlatinumOreActiv",
+      "type": "achievement",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinum_ore_activ"
+    },
+    {
+      "name": "TinActiv",
+      "type": "achievement",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_activ"
+    },
+    {
+      "name": "RubyArmorlvl3HelmetTickEvent",
+      "type": "procedure",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armorlvl_3_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RubyArmor12craft",
+      "type": "recipe",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_12craft"
+    },
+    {
+      "name": "RubyArmor12craft2",
+      "type": "recipe",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_12craft_2"
+    },
+    {
+      "name": "RubyArmor12craft3",
+      "type": "recipe",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_12craft_3"
+    },
+    {
+      "name": "RubyArmor12craft4",
+      "type": "recipe",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_12craft_4"
+    },
+    {
+      "name": "RubyArmor13craft1",
+      "type": "recipe",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_13craft_1"
+    },
+    {
+      "name": "RubyArmor13craft2",
+      "type": "recipe",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_13craft_2"
+    },
+    {
+      "name": "RubyArmor13craft3",
+      "type": "recipe",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_13craft_3"
+    },
+    {
+      "name": "RubyArmor13craft4",
+      "type": "recipe",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_13craft_4"
+    },
+    {
+      "name": "PlutinumArmorlLvl2BodyTickEvent",
+      "type": "procedure",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_armorl_lvl_2_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PlutinumArmorlLvl2",
+      "type": "armor",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_armorl_lvl_2",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Plutinumarmorlvl3HelmetTickEvent",
+      "type": "procedure",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumarmorlvl_3_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Plutinumarmorlvl3BodyTickEvent",
+      "type": "procedure",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumarmorlvl_3_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Plutinumarmorlvl3",
+      "type": "armor",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinumarmorlvl_3",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PlutinumUp2",
+      "type": "recipe",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_up_2"
+    },
+    {
+      "name": "PlutinumUp22",
+      "type": "recipe",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_up_22"
+    },
+    {
+      "name": "PlutinumUp23",
+      "type": "recipe",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_up_23"
+    },
+    {
+      "name": "PlutinumUp24",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_up_24"
+    },
+    {
+      "name": "PlutinumUp31",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_up_31"
+    },
+    {
+      "name": "PlutinumUp32",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_up_32"
+    },
+    {
+      "name": "PlutinumUp33",
+      "type": "recipe",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_up_33"
+    },
+    {
+      "name": "PlutinumUp34",
+      "type": "recipe",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutinum_up_34"
+    },
+    {
+      "name": "DiaraldArmorLvl2BodyTickEvent",
+      "type": "procedure",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_armor_lvl_2_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DiaraldArmorLvl2",
+      "type": "armor",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarald_armor_lvl_2",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Diaraldarmorlvl3HelmetTickEvent",
+      "type": "procedure",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diaraldarmorlvl_3_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Diaraldarmorlvl3BodyTickEvent",
+      "type": "procedure",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diaraldarmorlvl_3_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Diaraldarmorlvl3",
+      "type": "armor",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diaraldarmorlvl_3",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Diaraldarmorcraft2",
+      "type": "recipe",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diaraldarmorcraft_2"
+    },
+    {
+      "name": "Diaraldarmorcraft21",
+      "type": "recipe",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diaraldarmorcraft_21"
+    },
+    {
+      "name": "Diaraldarmorcraft23",
+      "type": "recipe",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diaraldarmorcraft_23"
+    },
+    {
+      "name": "Diaraldarmorcraft24",
+      "type": "recipe",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diaraldarmorcraft_24"
+    },
+    {
+      "name": "Diaraldarmorcraft31",
+      "type": "recipe",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diaraldarmorcraft_31"
+    },
+    {
+      "name": "Diaraldarmorcraft32",
+      "type": "recipe",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diaraldarmorcraft_32"
+    },
+    {
+      "name": "Diaraldarmorcraft33",
+      "type": "recipe",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diaraldarmorcraft_33"
+    },
+    {
+      "name": "Diaraldarmorcraft34",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diaraldarmorcraft_34"
+    },
+    {
+      "name": "ArmorActiv4",
+      "type": "achievement",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_activ_4"
+    },
+    {
+      "name": "Emeraldarmor2lvlSobytiieTaktovKirasy",
+      "type": "procedure",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmor_2lvl_sobytiie_taktov_kirasy",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Emeraldarmor2lvlSobytiieTaktovShliema",
+      "type": "procedure",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmor_2lvl_sobytiie_taktov_shliema",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Emeraldarmor2lvlSobytiieTaktovPonozhiei",
+      "type": "procedure",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmor_2lvl_sobytiie_taktov_ponozhiei",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Emeraldarmor2lvlSobytiieTaktovBotinkov",
+      "type": "procedure",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmor_2lvl_sobytiie_taktov_botinkov",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Emeraldarmor2lvl",
+      "type": "armor",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmor_2lvl",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Emeraldarmorcraft2lvl",
+      "type": "recipe",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmorcraft_2lvl"
+    },
+    {
+      "name": "Emeraldarmorcraft2lvlb",
+      "type": "recipe",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmorcraft_2lvlb"
+    },
+    {
+      "name": "Emeraldcraft2lvlh",
+      "type": "recipe",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldcraft_2lvlh"
+    },
+    {
+      "name": "Emeraldcraft2lvlb",
+      "type": "recipe",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldcraft_2lvlb"
+    },
+    {
+      "name": "Emeraldarmor3lvlSobytiieTaktovShliema",
+      "type": "procedure",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmor_3lvl_sobytiie_taktov_shliema",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Emeraldarmor3lvlSobytiieTaktovKirasy",
+      "type": "procedure",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmor_3lvl_sobytiie_taktov_kirasy",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Emeraldarmor3lvlSobytiieTaktovPonozhiei",
+      "type": "procedure",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmor_3lvl_sobytiie_taktov_ponozhiei",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Emeraldarmor3lvlSobytiieTaktovBotinkov",
+      "type": "procedure",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmor_3lvl_sobytiie_taktov_botinkov",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Emeraldarmor3lvl",
+      "type": "armor",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmor_3lvl",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Emeraldarmor3lvlh",
+      "type": "recipe",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldarmor_3lvlh"
+    },
+    {
+      "name": "Emeraldcraft3lvlb",
+      "type": "recipe",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldcraft_3lvlb"
+    },
+    {
+      "name": "Emeraldcraft3lvll",
+      "type": "recipe",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldcraft_3lvll"
+    },
+    {
+      "name": "Emeraldcraft3lvle",
+      "type": "recipe",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraldcraft_3lvle"
+    },
+    {
+      "name": "Lapisarmor2lvlSobytiieTaktovShliema",
+      "type": "procedure",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapisarmor_2lvl_sobytiie_taktov_shliema",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lapisarmor2lvlSobytiieTaktovKirasy",
+      "type": "procedure",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapisarmor_2lvl_sobytiie_taktov_kirasy",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lapisarmor2lvlSobytiieTaktovPonozhiei",
+      "type": "procedure",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapisarmor_2lvl_sobytiie_taktov_ponozhiei",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lapisarmor2lvlSobytiieTaktovBotinkov",
+      "type": "procedure",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapisarmor_2lvl_sobytiie_taktov_botinkov",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lapisarmor2lvl",
+      "type": "armor",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapisarmor_2lvl",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Lapiscraft2lvlb",
+      "type": "recipe",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapiscraft_2lvlb"
+    },
+    {
+      "name": "Lapiscraft2lvl",
+      "type": "recipe",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapiscraft_2lvl"
+    },
+    {
+      "name": "Lapiscraft2lvll",
+      "type": "recipe",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapiscraft_2lvll"
+    },
+    {
+      "name": "Lapiscraft2lvlh",
+      "type": "recipe",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapiscraft_2lvlh"
+    },
+    {
+      "name": "Lapiscraft3lvlSobytiieTaktovShliema",
+      "type": "procedure",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapiscraft_3lvl_sobytiie_taktov_shliema",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lapiscraft3lvlSobytiieTaktovKirasy",
+      "type": "procedure",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapiscraft_3lvl_sobytiie_taktov_kirasy",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lapiscraft3lvlSobytiieTaktovPonozhiei",
+      "type": "procedure",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapiscraft_3lvl_sobytiie_taktov_ponozhiei",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lapiscraft3lvlSobytiieTaktovBotinkov",
+      "type": "procedure",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapiscraft_3lvl_sobytiie_taktov_botinkov",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lapiscraft3lvl",
+      "type": "armor",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapiscraft_3lvl",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Lapiscraft3lvlh",
+      "type": "recipe",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapiscraft_3lvlh"
+    },
+    {
+      "name": "Lapiscraft3lvlb",
+      "type": "recipe",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapiscraft_3lvlb"
+    },
+    {
+      "name": "Lapiscraft3lvll",
+      "type": "recipe",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapiscraft_3lvll"
+    },
+    {
+      "name": "Lapiscraft3lvlw",
+      "type": "recipe",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapiscraft_3lvlw"
+    },
+    {
+      "name": "Armorcraft",
+      "type": "achievement",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armorcraft"
+    },
+    {
+      "name": "ArmorCraftAcriv",
+      "type": "procedure",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_craft_acriv",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "BlockActiv",
+      "type": "achievement",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_activ"
+    },
+    {
+      "name": "BlockActiv2",
+      "type": "procedure",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_activ_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Diaraldpick",
+      "type": "achievement",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diaraldpick"
+    },
+    {
+      "name": "LAPISONCRAFT",
+      "type": "recipe",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapisoncraft"
+    },
+    {
+      "name": "TopazarmorSobytiieTaktovShliema",
+      "type": "procedure",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topazarmor_sobytiie_taktov_shliema",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TopazarmorSobytiieTaktovPonozhiei",
+      "type": "procedure",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topazarmor_sobytiie_taktov_ponozhiei",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TopazarmorSobytiieTaktovBotinkov",
+      "type": "procedure",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topazarmor_sobytiie_taktov_botinkov",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Netheriteblockcraft",
+      "type": "recipe",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netheriteblockcraft"
+    },
+    {
+      "name": "Ancientdebris",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancientdebris"
+    },
+    {
+      "name": "Netheritescrap",
+      "type": "item",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netheritescrap"
+    },
+    {
+      "name": "Neteritescrapcraft",
+      "type": "recipe",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "neteritescrapcraft"
+    },
+    {
+      "name": "Netheriteingot",
+      "type": "item",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netheriteingot"
+    },
+    {
+      "name": "Netheriteingotcraft",
+      "type": "recipe",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netheriteingotcraft"
+    },
+    {
+      "name": "NetheriteBlock",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_block"
+    },
+    {
+      "name": "AftercraftNetherite",
+      "type": "recipe",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aftercraft_netherite"
+    },
+    {
+      "name": "Smithingtable",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smithingtable"
+    },
+    {
+      "name": "Smithingtablegui",
+      "type": "gui",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smithingtablegui"
+    },
+    {
+      "name": "SmithingtableNaBlokieNazhataPravaiaKnopkaMyshi",
+      "type": "procedure",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smithingtable_na_blokie_nazhata_pravaia_knopka_myshi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SmithingtableNaBlokieNazhataPravaiaKnopkaMyshi2",
+      "type": "procedure",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smithingtable_na_blokie_nazhata_pravaia_knopka_myshi_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TakeItem",
+      "type": "procedure",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "take_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Smithingtablecraft",
+      "type": "recipe",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smithingtablecraft"
+    },
+    {
+      "name": "NetheriteSword",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_sword"
+    },
+    {
+      "name": "NetheritePixAxe",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_pix_axe"
+    },
+    {
+      "name": "NetheriteAxer",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_axer"
+    },
+    {
+      "name": "NetheriteShovel",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_shovel"
+    },
+    {
+      "name": "NetgeriteHoe",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netgerite_hoe"
+    },
+    {
+      "name": "NetheriteArmore",
+      "type": "armor",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_armore",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "NetheriteDS",
+      "type": "achievement",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_ds"
+    },
+    {
+      "name": "NetheriteScrapDS",
+      "type": "achievement",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_scrap_ds"
+    },
+    {
+      "name": "NetheriteOreDS",
+      "type": "achievement",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_ore_ds"
+    },
+    {
+      "name": "Clear",
+      "type": "procedure",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clear",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NetheriteCraft",
+      "type": "recipe",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_craft"
+    },
+    {
+      "name": "TopazArmor2lvl",
+      "type": "armor",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_armor_2lvl",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TopazArmor3lvl",
+      "type": "armor",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_armor_3lvl",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CraftTopaz2",
+      "type": "recipe",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_topaz_2"
+    },
+    {
+      "name": "CraftTopaz22",
+      "type": "recipe",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_topaz_22"
+    },
+    {
+      "name": "PackedicesfmUpdateTick",
+      "type": "procedure",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "packedicesfm_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Packedicesfm",
+      "type": "block",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "packedicesfm"
+    },
+    {
+      "name": "BlueroseswordKoghdaNazhataPkmPoVozdukhu",
+      "type": "procedure",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bluerosesword_koghda_nazhata_pkm_po_vozdukhu",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bluerosesword",
+      "type": "tool",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bluerosesword"
+    },
+    {
+      "name": "TimeEarsedswordKoghdaNazhataPkmPoVozdukhu",
+      "type": "procedure",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "time_earsedsword_koghda_nazhata_pkm_po_vozdukhu",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TimeEarsedsword",
+      "type": "tool",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "time_earsedsword"
+    },
+    {
+      "name": "GdfgfdKoghdaNazhataPkmPoVozdukhu",
+      "type": "procedure",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gdfgfd_koghda_nazhata_pkm_po_vozdukhu",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gdfgfd",
+      "type": "item",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gdfgfd"
+    },
+    {
+      "name": "GhostblockObnovitTakt",
+      "type": "procedure",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghostblock_obnovit_takt",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghostblock",
+      "type": "block",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghostblock"
+    },
+    {
+      "name": "MagicIce",
+      "type": "item",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_ice"
+    },
+    {
+      "name": "TheAltar",
+      "type": "block",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_altar"
+    },
+    {
+      "name": "TheAltargui",
+      "type": "gui",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_altargui"
+    },
+    {
+      "name": "TheAltarNaBlokieNazhataPravaiaKnopkaMyshi",
+      "type": "procedure",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_altar_na_blokie_nazhata_pravaia_knopka_myshi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TheAltarProcedure",
+      "type": "procedure",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_altar_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TakeItem2",
+      "type": "procedure",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "take_item_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Clear2",
+      "type": "procedure",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clear_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "KillmagedonKoghdaNazhataPkmPoVozdukhu",
+      "type": "procedure",
+      "sortid": 340,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "killmagedon_koghda_nazhata_pkm_po_vozdukhu",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "KillmagedonKoghdaInstrumientVTaktieRuki",
+      "type": "procedure",
+      "sortid": 341,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "killmagedon_koghda_instrumient_v_taktie_ruki",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "KillmagedonKoghdaInstrumientVInvientarie",
+      "type": "procedure",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "killmagedon_koghda_instrumient_v_invientarie",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "KillmagedonKoghdaSushchiestvoRazmakhivaietPriedmietom",
+      "type": "procedure",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "killmagedon_koghda_sushchiestvo_razmakhivaiet_priedmietom",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Killmagedon",
+      "type": "tool",
+      "sortid": 340,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "killmagedon"
+    },
+    {
+      "name": "BlueroseswordKoghdaZhivaiaSushchnostPopadaietSPomoshchiuInstrumienta",
+      "type": "procedure",
+      "sortid": 344,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bluerosesword_koghda_zhivaia_sushchnost_popadaiet_s_pomoshchiu_instrumienta",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TemporarySwordKoghdaNazhataPkmPoVozdukhu",
+      "type": "procedure",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temporary_sword_koghda_nazhata_pkm_po_vozdukhu",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TemporarySword",
+      "type": "tool",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temporary_sword"
+    },
+    {
+      "name": "CancelstopKoghdaNazhataPkmPoVozdukhu",
+      "type": "procedure",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cancelstop_koghda_nazhata_pkm_po_vozdukhu",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TimestopPoIstiechieniiDieistviiaZielia",
+      "type": "procedure",
+      "sortid": 347,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "timestop_po_istiechienii_dieistviia_zielia",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Timestop",
+      "type": "potion",
+      "sortid": 347,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "timestop"
+    },
+    {
+      "name": "TimeStopclock",
+      "type": "item",
+      "sortid": 349,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "time_stopclock"
+    },
+    {
+      "name": "UnknownfragmentKoghdaNazhataPkmPoVozdukhu",
+      "type": "procedure",
+      "sortid": 350,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unknownfragment_koghda_nazhata_pkm_po_vozdukhu",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Unknownfragment",
+      "type": "item",
+      "sortid": 350,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unknownfragment"
+    },
+    {
+      "name": "Unknownore",
+      "type": "block",
+      "sortid": 351,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unknownore"
+    },
+    {
+      "name": "UnknownoreKoghdaIghrokNachinaietUnichtozhat",
+      "type": "procedure",
+      "sortid": 352,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unknownore_koghda_ighrok_nachinaiet_unichtozhat",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghostblock2",
+      "type": "block",
+      "sortid": 353,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghostblock_2"
+    },
+    {
+      "name": "Ghostblock2KoghdaBlokRazmieshchion",
+      "type": "procedure",
+      "sortid": 354,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghostblock_2_koghda_blok_razmieshchion",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghostblock2ObnovitTakt",
+      "type": "procedure",
+      "sortid": 355,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghostblock_2_obnovit_takt",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghostblock2ObnovitTakt2",
+      "type": "procedure",
+      "sortid": 356,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghostblock_2_obnovit_takt_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghostblock2ObnovitTakt3",
+      "type": "procedure",
+      "sortid": 357,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghostblock_2_obnovit_takt_3",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghostblock3ObnovitTakt",
+      "type": "procedure",
+      "sortid": 358,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghostblock_3_obnovit_takt",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HellsSword",
+      "type": "tool",
+      "sortid": 359,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hells_sword"
+    },
+    {
+      "name": "Altar",
+      "type": "recipe",
+      "sortid": 360,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "altar"
+    },
+    {
+      "name": "Ancientglacier",
+      "type": "block",
+      "sortid": 361,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancientglacier"
+    },
+    {
+      "name": "AncientglacierKoghdaBlokRazrushienIghrokom",
+      "type": "procedure",
+      "sortid": 362,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancientglacier_koghda_blok_razrushien_ighrokom",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "time_skip",
+      "files": [
+        "conscious_time_erasure"
+      ],
+      "category": "player",
+      "subtitle": ""
+    },
+    {
+      "name": "ice",
+      "files": [
+        "effekt-ledyanoy-magii-ataki-42414-_mp3cut.net_"
+      ],
+      "category": "player",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "ru_ru": {
+      "item.sfm_.dialard_armor_boots": "Диаларовые ботинки",
+      "advancements.rapira_activ.descr": "Скрафтите рапиру",
+      "item.sfm_.emeraldarmor_boots": "Изумрудные ботинки",
+      "item.sfm_.netherite_armore_chestplate": "Незеритовый нагрудник",
+      "item.sfm_.diarald_armor_lvl_2_chestplate": "Диаральдовый нагрудник (Уровень 2)",
+      "item.sfm_.bronze_axe": "Бронзовый топор",
+      "item.sfm_.netgerite_hoe": "Незеритовая мотыга",
+      "item.sfm_.copper_shovel": "Медная лопата",
+      "block.sfm_.plutinum_block": "Платиновый блок",
+      "advancements.netherite_ore_ds.descr": "Вот ты и получил незеритовый слиток!",
+      "item.sfm_.lapis_hoe": "Лазуритовая мотыга",
+      "item.sfm_.emirald_sword": "Изумрудный меч",
+      "item.sfm_.lapiscraft_3lvl_leggings": "Лазуритовые поножи (Уровень 3)",
+      "item.sfm_.topazarmor_helmet": "Топазовый шлем",
+      "advancements.platium_activ.descr": "Отищите платину.",
+      "item.sfm_.topazsword": "Топазовый меч",
+      "item.sfm_.plutinumarmor_helmet": "Платиновый шлем",
+      "item.sfm_.plutinumsmall": "Платиновый самородок",
+      "item.sfm_.lapis_shovel": "Лазуритовая лопата",
+      "item.sfm_.diarald_armor_lvl_2_helmet": "Диаральдовый шлем (Уровень 2)",
+      "item.sfm_.topazarmor_leggings": "Топазовые поножи",
+      "advancements.diarald_activ.title": "Симбиоз минералов",
+      "advancements.diaraldpick.descr": "Сломайте диаральтовую кирку",
+      "item.sfm_.rubyarmor_chestplate": "Рубиновый нагрудник",
+      "item.sfm_.ruby_armorlvl_3_helmet": "Рубиновый шлем (Уровень 3)",
+      "item.sfm_.lapispickaxe": "Лазуритовая кирка",
+      "advancements.armor_activ_4.title": "Armor Activ 4",
+      "item.sfm_.lapisarmor_2lvl_leggings": "Лазуритовые поножи (Уровень 2)",
+      "item.sfm_.topaz_armor_3lvl_leggings": "Topaz Armor 3lvl Поножи",
+      "item.sfm_.topazpickaxe": "Топазовая кирка",
+      "advancements.armorcraft.descr": "Незерит",
+      "item.sfm_.topaz_armor_2lvl_leggings": "Топазовые штаны (Уровень 2)",
+      "item.sfm_.topaz_armor_2lvl_helmet": "Топазовый шлем (Уровень 2)",
+      "advancements.rubyactive.descr": "Получить рубин в инвентарь",
+      "advancements.lapis_activ.title": "Получите лазурит",
+      "item.sfm_.emeraldarmor_chestplate": "Изумрудный нагрудник",
+      "item.sfm_.plutinumaxe": "Платиновый топор",
+      "advancements.bronze_activ.descr": "Найдите бронзовую руду!",
+      "itemGroup.tabsfmmod": "SFM MOD",
+      "item.sfm_.netherite_armore_helmet": "Незеритовый шлем",
+      "block.sfm_.ghostblock": "Ghostblock",
+      "item.sfm_.plutinumarmorlvl_3_helmet": "Платиновый шлем (Уровень 3)",
+      "item.sfm_.plutinum_armorl_lvl_2_chestplate": "Платиновый нагрудник (Уровень 2)",
+      "item.sfm_.bronze_pickaxe": "Бронзовая кирка",
+      "item.sfm_.rubyhoe": "Рубиновая мотыга",
+      "item.sfm_.killmagedon": "Killmagedon",
+      "item.sfm_.plutinumarmor_leggings": "Платиновые поножи",
+      "item.sfm_.lapisarmor_2lvl_boots": "Лазуритовые ботинки (Уровень 2)",
+      "block.sfm_.emeraldore": "Изумрудная руда",
+      "item.sfm_.plutinum_armorl_lvl_2_helmet": "Платиновый шлем (Уровень 2)",
+      "advancements.platinum_ore_activ.descr": "Найдите платиновую руду",
+      "item.sfm_.lapiscraft_3lvl_chestplate": "Лазуритовый нагрудник (Уровень 3)",
+      "item.sfm_.lapisaxe": "Лазуритовый топор",
+      "block.sfm_.copper_block": "Медный блок",
+      "item.sfm_.topazhoe": "Топазовая мотыга",
+      "item.sfm_.diarald_sword": "Диаларовый меч",
+      "item.sfm_.emeraldarmor_2lvl_helmet": "Изумрудный шлем (Уровень 2)",
+      "item.sfm_.dialard_armor_leggings": "Диаларовые поножи",
+      "item.sfm_.topaz": "Топаз",
+      "item.sfm_.plutinumpickaxe": "Платиновая кирка",
+      "item.sfm_.topaz_axe": "Топазовый топор",
+      "item.sfm_.ruby_armorlvl_2_leggings": "Рубиновые поножи (Уровень 2)",
+      "advancements.topaz_activ.title": "Топазовый блеск",
+      "item.sfm_.diarald_armor_lvl_2_boots": "Диаральдовые ботинки (Уровень 2)",
+      "item.sfm_.emeraldarmor_2lvl_boots": "Изумрудные ботинки (Уровень 2)",
+      "block.sfm_.rubyblock": "Рубиновый блок",
+      "subtitles.ice": "",
+      "advancements.netherite_scrap_ds.title": "Что же это?",
+      "item.minecraft.potion.effect.timestop": "Time stop",
+      "item.sfm_.plutinum_armorl_lvl_2_leggings": "Платиновые поножи (Уровень 2)",
+      "item.minecraft.splash_potion.effect.timestop": "Splash Time stop",
+      "block.sfm_.ghostblock_2": "Ghostblock 2",
+      "item.sfm_.time_stopclock": "Time Stop Clock",
+      "item.sfm_.emeraldarmor_3lvl_helmet": "Изумрудный шлем (Уровень 3)",
+      "item.sfm_.rubysword": "Рубиновый меч",
+      "item.sfm_.unknownfragment": "Unknown Fragment",
+      "advancements.block_activ.descr": "Поставьте кажный блок на землю!",
+      "advancements.lapis_activ.descr": "Создайте плотный лазурит",
+      "advancements.diarald_activ.descr": "Симбиоз алмаза и изумруда!",
+      "advancements.rubyactive.title": "Дорого-богато",
+      "item.sfm_.netherite_pix_axe": "Незеритовая кирка",
+      "item.sfm_.nezeritcheast": "Незеритовый нагрудник",
+      "advancements.copper_activ.title": "Медь",
+      "item.sfm_.emeraldarmor_leggings": "Изумрудные поножи",
+      "item.sfm_.gdfgfd": "Gdfgfd",
+      "block.sfm_.bronze_block": "Бронзовый блок",
+      "block.sfm_.diarald_block": "Диаларовый блок",
+      "item.sfm_.bluerosesword": "Blue Rose Sword",
+      "advancements.netherite_ds.title": "Адское оружие",
+      "item.sfm_.topaz_shovel": "Топозовая лопата",
+      "item.sfm_.diarald_axe": "Диаларовый топор",
+      "item.sfm_.topazarmor_boots": "Топазовые ботинки",
+      "advancements.denselapis_activ.title": "Ещё плотнее!",
+      "advancements.platinum_activ.descr": "Найдите платиновую руду!",
+      "item.sfm_.copperarmor_leggings": "Медные поножи",
+      "advancements.collector_ore.descr": "Соберите все руды в инвентаре!",
+      "block.sfm_.packedicesfm": "Packed Ice",
+      "advancements.emerald_activ.title": "Изумруды!",
+      "block.sfm_.the_altar": "The Altar",
+      "block.sfm_.netherite_block": "Незеритовый блок",
+      "item.sfm_.ruby_armorlvl_2_chestplate": "Рубиновый нагрудник (Уровень 2)",
+      "item.sfm_.copper_axe": "Медная руда",
+      "advancements.armor_activ_4.descr": "Скрафтите рубиновую броню",
+      "item.sfm_.platonic_rapier": "Платиновая рапира",
+      "advancements.diaraldpick.title": "Диаральд",
+      "advancements.ruby_activ.descr": "Найдите рубиновую руду!",
+      "item.sfm_.diarald_pickaxe": "Диаларовая кирка",
+      "item.sfm_.emerald_hoe": "Изумрудная мотыга",
+      "item.sfm_.plutinumsword": "Платиновый меч",
+      "block.sfm_.topaz_block": "Топазовый блок",
+      "item.sfm_.emeraldarmor_2lvl_leggings": "Изумрудные поножи (Уровень 2)",
+      "item.sfm_.emeraldarmor_3lvl_leggings": "Изумрудные поножи (Уровень 3)",
+      "item.sfm_.copper_sword": "Медный меч",
+      "item.sfm_.bronze_armor_helmet": "Бронзовый шлем",
+      "item.sfm_.bronze": "Бронза",
+      "item.sfm_.bronzeshovel": "Бронзовая лопата",
+      "item.sfm_.denselapis": "Уплотненный лазурит",
+      "block.sfm_.topaz_ore": "Топазовая руда",
+      "advancements.tin_activ.title": "Время улучшений!",
+      "block.sfm_.plutinumore": "Платиновая руда",
+      "item.sfm_.rubyarmor_helmet": "Рубиновый шлем",
+      "item.minecraft.lingering_potion.effect.timestop": "Lingering Time stop",
+      "advancements.bronze_activ.title": "Бронзовая крепость!",
+      "item.sfm_.rubyshovel": "Рубиновая лопата",
+      "item.sfm_.rubyarmor_leggings": "Рубиновые поножи",
+      "block.sfm_.unknownore": "Unknown Ore",
+      "item.sfm_.plutinumhoe": "Платиноваяя мотыга",
+      "item.sfm_.lapisarmor_chestplate": "Лазуритовый нагрудник",
+      "item.sfm_.lapisarmor_helmet": "Лазуритовый шлем",
+      "item.sfm_.hells_sword": "Hell\u0027s Sword",
+      "item.sfm_.emeraldarmor_3lvl_chestplate": "Изумрудный нагрудник (Уровень 3)",
+      "item.sfm_.diaraldarmorlvl_3_helmet": "Диаральдовый шлем (Уровень 3)",
+      "item.sfm_.diarald_hoe": "Диаларовая мотыга",
+      "advancements.platinum_ore_activ.title": "Мощь платины!",
+      "item.sfm_.bronze_armor_boots": "Бронзовые ботинки",
+      "item.sfm_.emeraldpickaxe": "Изумрудная кирка",
+      "item.sfm_.topaz_armor_2lvl_boots": "Топазовые ботнки (Уровень 2)",
+      "item.sfm_.tinore": "Оловянная руда",
+      "advancements.block_activ.title": "Заняться нечем?",
+      "block.sfm_.copperore": "Медная руда",
+      "advancements.armorcraft.title": "Создайте незеритовую броню",
+      "block.sfm_.tinore_1": "Оловянная руда",
+      "item.sfm_.emeraldarmor_3lvl_boots": "Изумрудные ботинки (Уровень 3)",
+      "item.sfm_.netherite_armore_leggings": "Незеритовые поножи",
+      "item.sfm_.netherite_armore_boots": "Незеритовые ботинки",
+      "item.sfm_.netheritescrap": "Незеритовый скрап",
+      "item.sfm_.magic_ice": "Magic Ice",
+      "item.sfm_.ruby_pickaxe": "Рубиновая кирка",
+      "item.sfm_.diarald_armor_lvl_2_leggings": "Диаральдовые поножи (Уровень 2)",
+      "advancements.netherite_ds.descr": "Ты становишься, всё лучше!",
+      "block.sfm_.ancientglacier": "Ancient Glacier",
+      "item.sfm_.copper": "Медный слиток",
+      "item.sfm_.copperarmor_boots": "Медные ботинки",
+      "item.sfm_.diaraldarmorlvl_3_chestplate": "Диаральдовый нагрудник (Уровень 3)",
+      "item.sfm_.lapisarmor_leggings": "Лазуритные поножи",
+      "item.sfm_.netherite_axer": "Незеритовый топор",
+      "item.sfm_.lapisarmor_boots": "Лазуритовые ботинки",
+      "advancements.bronzeactive.title": "Время бронзы",
+      "block.sfm_.rubyore": "Рубиновая руда",
+      "item.sfm_.emeraldaxe": "Изумрудный топор",
+      "advancements.cooper_activ.descr": "Найдите медную руду!",
+      "effect.timestop": "Timestop",
+      "advancements.rapira_activ.title": "Быстрота моего клинка",
+      "item.sfm_.bronze_sword": "Бронзовый меч",
+      "item.sfm_.ruby_armorlvl_2_helmet": "Рубиновый шлем (Уровень 3)",
+      "item.sfm_.lapisarmor_2lvl_chestplate": "Лазуритовый нагрудник (Уровень 2)",
+      "item.sfm_.emeraldarmor_2lvl_chestplate": "Изумрудный нагрудник (Уровень 2)",
+      "advancements.tin_activ.descr": "Получите олово",
+      "item.minecraft.tipped_arrow.effect.timestop": "Arrow of Time stop",
+      "subtitles.time_skip": "",
+      "item.sfm_.diarald": "Диальард",
+      "item.sfm_.plutinum_armorl_lvl_2_boots": "Платиновые ботинки (Уровень 2)",
+      "advancements.platium_activ.title": "Платина!",
+      "advancements.netherite_ore_ds.title": "Новая руда!",
+      "item.sfm_.plutinumarmorlvl_3_chestplate": "Платиновый нагрудник (Уровень 3)",
+      "block.sfm_.smithingtable": "Кузнечный стол",
+      "item.sfm_.lapissword": "Лазуритовый меч",
+      "item.sfm_.ruby_armorlvl_3_leggings": "Рубиновые поножи (Уровень 3)",
+      "advancements.emerald_activ.descr": "Найдите изумруды",
+      "item.sfm_.lapisarmor_2lvl_helmet": "Лазуритовый нагрудник (Уровень 2)",
+      "advancements.platinum_activ.title": "Платина",
+      "item.sfm_.netheriteingot": "Незеритовый слиток",
+      "block.sfm_.ancientdebris": "Древний осколок",
+      "item.sfm_.emerald_shovel": "Изумрудная лопата",
+      "item.sfm_.plutinumarmor_boots": "Платиновые ботинки",
+      "item.sfm_.temporary_sword": "Temporary Sword",
+      "item.sfm_.topazarmor_chestplate": "Топазовый нагрудник",
+      "item.sfm_.plutinum": "Платиновый слиток",
+      "item.sfm_.copperarmor_helmet": "Медный шлем",
+      "item.sfm_.netherite_sword": "Незеритовый меч",
+      "item.sfm_.dialard_armor_helmet": "Диаларовый шлем",
+      "advancements.ruby_activ.title": "Красный как кровь.",
+      "advancements.cooper_activ.title": "Медный поиск увенчался успехом.",
+      "item.sfm_.ruby": "Рубин",
+      "item.sfm_.topaz_armor_3lvl_boots": "Топазовые ботнки (Уровень 3)",
+      "advancements.denselapis_activ.descr": "Скрафтите плотный лазурит.",
+      "item.sfm_.bronze_armor_chestplate": "Бронзовый нагрудник",
+      "item.sfm_.topaz_armor_2lvl_chestplate": "Топазовый нагрудник (Уровень 2)",
+      "item.sfm_.plutinumarmorlvl_3_leggings": "Платиновые поножи (Уровень 3)",
+      "item.sfm_.plutinumarmor_chestplate": "Платиновый нагрудник",
+      "item.sfm_.copperarmor_chestplate": "Медный нагрудник",
+      "item.sfm_.ruby_armorlvl_3_boots": "Рубиновые ботинки (Уровень 3)",
+      "item.sfm_.dialard_armor_chestplate": "Диаларовый нагрудник",
+      "advancements.bronzeactive.descr": "Получите бронзовую руду",
+      "item.sfm_.time_earsedsword": "Time Cutter",
+      "item.sfm_.topaz_armor_3lvl_chestplate": "Топазовый нагрудник (Уровень 3)",
+      "item.sfm_.plutinumarmorlvl_3_boots": "Платиновые ботинки (Уровень 3)",
+      "item.sfm_.bronze_hoe": "Бронзовая мотыга",
+      "advancements.collector_ore.title": "Колликционер",
+      "item.sfm_.copperpickaxe": "Медная кирка",
+      "item.sfm_.rubyarmor_boots": "Рубиновые ботинки",
+      "advancements.netherite_scrap_ds.descr": "Ещё...",
+      "item.sfm_.plutinum_shovel": "Платиновая лопата",
+      "item.sfm_.emeraldarmor_helmet": "Изумрудный шлем",
+      "item.sfm_.diarald_shovel": "Диаларовая лопата",
+      "item.sfm_.netherite_shovel": "Незеритовая лопата",
+      "item.sfm_.diaraldarmorlvl_3_leggings": "Диаральдовые поножи (Уровень 3)",
+      "block.sfm_.tin_block": "Оловянный блок",
+      "item.sfm_.topaz_armor_3lvl_helmet": "Топазовый шлем (Уровень 3)",
+      "item.sfm_.lapiscraft_3lvl_boots": "Лазуритоввые ботники (Уровень 3)",
+      "item.sfm_.diaraldarmorlvl_3_boots": "Диаральдовые ботники (Уровень 3)",
+      "advancements.topaz_activ.descr": "Получите топаз.",
+      "item.sfm_.lapiscraft_3lvl_helmet": "Лазуритовый шлем (Уровень 3)",
+      "item.sfm_.ruby_axe": "Рубиновый топор",
+      "advancements.copper_activ.descr": "Получите медь.",
+      "item.sfm_.ruby_armorlvl_2_boots": "Рубиновые ботинки (Уровень 2)",
+      "item.sfm_.copperhoe": "Медная мотыга",
+      "item.sfm_.ruby_armorlvl_3_chestplate": "Рубиновый нагрудник (Уровень 3)",
+      "item.sfm_.bronze_armor_leggings": "Бронзовые поножи"
+    },
+    "en_us": {
+      "item.sfm_.dialard_armor_boots": "Dialard Armor Ботинки",
+      "advancements.rapira_activ.descr": "Craft the Shogun\u0027s Swift Sword",
+      "item.sfm_.emeraldarmor_boots": "Emerald Boots",
+      "item.sfm_.netherite_armore_chestplate": "Netherite Armore Кираса",
+      "item.sfm_.diarald_armor_lvl_2_chestplate": "Diarald Chestplate (LvL 2)",
+      "item.sfm_.bronze_axe": "Bronze Axe",
+      "item.sfm_.netgerite_hoe": "Netgerite Hoe",
+      "item.sfm_.copper_shovel": "Copper Shovel",
+      "block.sfm_.plutinum_block": "Plutinum Block",
+      "advancements.netherite_ore_ds.descr": "Вот ты и получил незеритовый слиток!",
+      "item.sfm_.lapis_hoe": "Lapis Hoe",
+      "item.sfm_.emirald_sword": "Emerald Sword",
+      "item.sfm_.lapiscraft_3lvl_leggings": "Lapiscraft 3lvl Поножи",
+      "item.sfm_.topazarmor_helmet": "Topazarmor Helmet",
+      "advancements.platium_activ.descr": "Find Platinum for later crafting!",
+      "item.sfm_.topazsword": "Topaz Sword",
+      "item.sfm_.plutinumarmor_helmet": "Plutinumarmor Helmet",
+      "item.sfm_.plutinumsmall": "Plutinum Small Ingot",
+      "item.sfm_.lapis_shovel": "Lapis Shovel",
+      "item.sfm_.diarald_armor_lvl_2_helmet": "Diarald Helmet (LvL 2)",
+      "item.sfm_.topazarmor_leggings": "Topazarmor Leggings",
+      "advancements.diarald_activ.title": "Diarald Activ",
+      "advancements.diaraldpick.descr": "Сломайте диаральтовую кирку",
+      "item.sfm_.rubyarmor_chestplate": "Rubyarmor Body",
+      "item.sfm_.ruby_armorlvl_3_helmet": "Ruby Armorlvl 3 Helmet",
+      "item.sfm_.lapispickaxe": "Lapis Pickaxe",
+      "advancements.armor_activ_4.title": "Armor Activ 4",
+      "item.sfm_.lapisarmor_2lvl_leggings": "Lapisarmor 2lvl Поножи",
+      "item.sfm_.topaz_armor_3lvl_leggings": "Topaz Armor 3lvl Поножи",
+      "item.sfm_.topazpickaxe": "Topaz Pickaxe",
+      "advancements.armorcraft.descr": "craft armor",
+      "item.sfm_.topaz_armor_2lvl_leggings": "Topaz Armor 2lvl Поножи",
+      "item.sfm_.topaz_armor_2lvl_helmet": "Topaz Armor 2lvl Шлем",
+      "advancements.rubyactive.descr": "Get rubies in your inventory!",
+      "advancements.lapis_activ.title": "Lapis Activ",
+      "item.sfm_.emeraldarmor_chestplate": "Emerald Chestplate",
+      "item.sfm_.plutinumaxe": "Plutinum Axe",
+      "advancements.bronze_activ.descr": "Скрафтите бронзовую руду!",
+      "itemGroup.tabsfmmod": "Sfm Mod",
+      "item.sfm_.netherite_armore_helmet": "Netherite Armore Шлем",
+      "block.sfm_.ghostblock": "Ghostblock",
+      "item.sfm_.plutinumarmorlvl_3_helmet": "Plutinumarmorlvl 3 Helmet",
+      "item.sfm_.plutinum_armorl_lvl_2_chestplate": "Plutinum Chestplate (LvL 2)",
+      "item.sfm_.bronze_pickaxe": "Bronze Pickaxe",
+      "item.sfm_.rubyhoe": "Ruby Hoe",
+      "item.sfm_.killmagedon": "Killmagedon",
+      "item.sfm_.plutinumarmor_leggings": "Plutinumarmor Leggings",
+      "item.sfm_.lapisarmor_2lvl_boots": "Lapisarmor 2lvl Ботинки",
+      "block.sfm_.emeraldore": "Emerald Ore",
+      "item.sfm_.plutinum_armorl_lvl_2_helmet": "Plutinum Helmet (LvL 2)",
+      "advancements.platinum_ore_activ.descr": "Melt the platinum ore!",
+      "item.sfm_.lapiscraft_3lvl_chestplate": "Lapiscraft 3lvl Кираса",
+      "item.sfm_.lapisaxe": "Lapis Axe",
+      "block.sfm_.copper_block": "Copper Block",
+      "item.sfm_.topazhoe": "Topazhoe",
+      "item.sfm_.diarald_sword": "Diarald Sword",
+      "item.sfm_.emeraldarmor_2lvl_helmet": "Emeraldarmor 2lvl Шлем",
+      "item.sfm_.dialard_armor_leggings": "Dialard Armor Поножи",
+      "item.sfm_.topaz": "Topaz",
+      "item.sfm_.plutinumpickaxe": "Plutinum Pickaxe",
+      "item.sfm_.topaz_axe": "Topaz Axe",
+      "item.sfm_.ruby_armorlvl_2_leggings": "Ruby Leggings LvL 2",
+      "advancements.topaz_activ.title": "Topaz Activ",
+      "item.sfm_.diarald_armor_lvl_2_boots": "Diarald Boots (LvL 2)",
+      "item.sfm_.emeraldarmor_2lvl_boots": "Emeraldarmor 2lvl Ботинки",
+      "block.sfm_.rubyblock": "Rubyblock",
+      "subtitles.ice": "",
+      "advancements.netherite_scrap_ds.title": "Neheritescrap",
+      "item.minecraft.potion.effect.timestop": "Time stop",
+      "item.sfm_.plutinum_armorl_lvl_2_leggings": "Plutinum Leggings (LvL 2)",
+      "item.minecraft.splash_potion.effect.timestop": "Splash Time stop",
+      "block.sfm_.ghostblock_2": "Ghostblock 2",
+      "item.sfm_.time_stopclock": "Time Stop Clock",
+      "item.sfm_.rubysword": "Ruby Sword",
+      "item.sfm_.emeraldarmor_3lvl_helmet": "Emeraldarmor 3lvl Шлем",
+      "item.sfm_.unknownfragment": "Unknown Fragment",
+      "advancements.block_activ.descr": "Поставьте кажный блок на землю!",
+      "advancements.lapis_activ.descr": "Make dense lapis lazuli for subsequent crafting!",
+      "advancements.rubyactive.title": "Rubyactive",
+      "advancements.diarald_activ.descr": "Craft a diaralt item!",
+      "item.sfm_.netherite_pix_axe": "Netherite Pix Axe",
+      "advancements.copper_activ.title": "Copper Activ",
+      "item.sfm_.nezeritcheast": "Nezeritcheast",
+      "item.sfm_.emeraldarmor_leggings": "Emerald Leggings",
+      "item.sfm_.gdfgfd": "Gdfgfd",
+      "block.sfm_.bronze_block": "Bronze Block",
+      "block.sfm_.diarald_block": "Diarald Block",
+      "item.sfm_.bluerosesword": "Blue Rose Sword",
+      "advancements.netherite_ds.title": "NezeritSword",
+      "item.sfm_.topaz_shovel": "Topaz Shovel",
+      "item.sfm_.diarald_axe": "Diarald Axe",
+      "item.sfm_.topazarmor_boots": "Topazarmor Boots",
+      "advancements.denselapis_activ.title": "Denselapis Activ",
+      "advancements.platinum_activ.descr": "Найдите платиновую руду!",
+      "item.sfm_.copperarmor_leggings": "Copperarmor Leggings",
+      "advancements.collector_ore.descr": "Collect each ore",
+      "block.sfm_.packedicesfm": "Magic Packed Ice",
+      "advancements.emerald_activ.title": "Emerald Activ",
+      "block.sfm_.the_altar": "The Altar",
+      "block.sfm_.netherite_block": "Netherite Block",
+      "item.sfm_.ruby_armorlvl_2_chestplate": "Ruby Chestplate LvL 2",
+      "item.sfm_.copper_axe": "Copper Axe",
+      "advancements.armor_activ_4.descr": "Craft Ruby armor!",
+      "item.sfm_.platonic_rapier": "Platonic Rapier",
+      "advancements.diaraldpick.title": "Diaraldpick",
+      "advancements.ruby_activ.descr": "Найдите рубиновую руду!",
+      "item.sfm_.diarald_pickaxe": "Diarald Pickaxe",
+      "item.sfm_.emerald_hoe": "Emerald Hoe",
+      "item.sfm_.plutinumsword": "Plutinum Sword",
+      "block.sfm_.topaz_block": "Topaz Block",
+      "item.sfm_.emeraldarmor_2lvl_leggings": "Emeraldarmor 2lvl Поножи",
+      "item.sfm_.emeraldarmor_3lvl_leggings": "Emeraldarmor 3lvl Поножи",
+      "item.sfm_.bronze_armor_helmet": "Bronze Armor Helmet",
+      "item.sfm_.copper_sword": "Copper Sword",
+      "item.sfm_.bronzeshovel": "Bronzeshovel",
+      "item.sfm_.bronze": "Bronze",
+      "item.sfm_.denselapis": "Dense Lapis",
+      "advancements.tin_activ.title": "Tin Activ",
+      "block.sfm_.topaz_ore": "Topaz Ore",
+      "block.sfm_.plutinumore": "Plutinum Ore",
+      "item.sfm_.rubyarmor_helmet": "Rubyarmor Helmet",
+      "item.minecraft.lingering_potion.effect.timestop": "Lingering Time stop",
+      "advancements.bronze_activ.title": "Bronze Activ",
+      "item.sfm_.rubyshovel": "Rubyshovel",
+      "item.sfm_.rubyarmor_leggings": "Rubyarmor Leggings",
+      "block.sfm_.unknownore": "Unknown Ore",
+      "item.sfm_.plutinumhoe": "Plutinumhoe",
+      "item.sfm_.lapisarmor_chestplate": "Lapis Body",
+      "item.sfm_.lapisarmor_helmet": "Lapis Helmet",
+      "item.sfm_.hells_sword": "Hell\u0027s Sword",
+      "item.sfm_.emeraldarmor_3lvl_chestplate": "Emeraldarmor 3lvl Кираса",
+      "item.sfm_.diaraldarmorlvl_3_helmet": "Diarald Helmet (LvL 3)",
+      "item.sfm_.diarald_hoe": "Diarald Hoe",
+      "advancements.platinum_ore_activ.title": "Platinum Ore Activ",
+      "item.sfm_.bronze_armor_boots": "Bronze Armor Boots",
+      "item.sfm_.emeraldpickaxe": "Emerald Pickaxe",
+      "item.sfm_.topaz_armor_2lvl_boots": "Topaz Armor 2lvl Ботинки",
+      "item.sfm_.tinore": "Tin Ingot",
+      "advancements.block_activ.title": "Block Activ",
+      "block.sfm_.copperore": "Copper ore",
+      "advancements.armorcraft.title": "Armorcraft",
+      "block.sfm_.tinore_1": "Tin Ore ",
+      "item.sfm_.emeraldarmor_3lvl_boots": "Emeraldarmor 3lvl Ботинки",
+      "item.sfm_.netherite_armore_leggings": "Netherite Armore Поножи",
+      "item.sfm_.netherite_armore_boots": "Netherite Armore Ботинки",
+      "item.sfm_.netheritescrap": "Netherite Scrap",
+      "item.sfm_.magic_ice": "Magic Ice",
+      "item.sfm_.ruby_pickaxe": "Ruby Pickaxe",
+      "item.sfm_.diarald_armor_lvl_2_leggings": "Diarald Leggings (LvL 2)",
+      "advancements.netherite_ds.descr": "Ты становишься, всё лучше!",
+      "block.sfm_.ancientglacier": "Ancient Glacier",
+      "item.sfm_.copper": "Copper Ingot",
+      "item.sfm_.copperarmor_boots": "Copperarmor Boots",
+      "item.sfm_.diaraldarmorlvl_3_chestplate": "Diarald Chestplate (LvL 3)",
+      "item.sfm_.lapisarmor_leggings": "Lapis Leggings",
+      "item.sfm_.netherite_axer": "Netherite Axer",
+      "item.sfm_.lapisarmor_boots": "Lapis Boots",
+      "advancements.bronzeactive.title": "Bronze active",
+      "block.sfm_.rubyore": "Rubyore",
+      "item.sfm_.emeraldaxe": "Emerald Axe",
+      "advancements.cooper_activ.descr": "Найдите медную руду!",
+      "effect.timestop": "Timestop",
+      "advancements.rapira_activ.title": "Rapira Activ",
+      "item.sfm_.bronze_sword": "Bronze Sword",
+      "item.sfm_.ruby_armorlvl_2_helmet": "Ruby Helmet LvL 2",
+      "item.sfm_.lapisarmor_2lvl_chestplate": "Lapisarmor 2lvl Кираса",
+      "item.sfm_.emeraldarmor_2lvl_chestplate": "Emeraldarmor 2lvl Кираса",
+      "advancements.tin_activ.descr": "Get the tin ore and melt it in the stove!",
+      "item.minecraft.tipped_arrow.effect.timestop": "Arrow of Time stop",
+      "subtitles.time_skip": "",
+      "item.sfm_.diarald": "Diarald",
+      "item.sfm_.plutinum_armorl_lvl_2_boots": "Plutinum Boots (LvL 2)",
+      "advancements.platium_activ.title": "Platium Activ",
+      "advancements.netherite_ore_ds.title": "NezeriteOre",
+      "item.sfm_.plutinumarmorlvl_3_chestplate": "Plutinumarmorlvl 3 Body",
+      "block.sfm_.smithingtable": "Smithing Table",
+      "item.sfm_.lapissword": "Lapis Sword",
+      "item.sfm_.ruby_armorlvl_3_leggings": "Ruby Armorlvl 3 Leggings",
+      "advancements.emerald_activ.descr": "Get the Imeraldic ore for subsequent crafting!",
+      "item.sfm_.lapisarmor_2lvl_helmet": "Lapisarmor 2lvl Шлем",
+      "advancements.platinum_activ.title": "Platinum Activ",
+      "block.sfm_.ancientdebris": "Ancient Debris",
+      "item.sfm_.netheriteingot": "Netherite Ingot",
+      "item.sfm_.emerald_shovel": "Emerald Shovel",
+      "item.sfm_.plutinumarmor_boots": "Plutinumarmor Boots",
+      "item.sfm_.temporary_sword": "Temporary Sword",
+      "item.sfm_.topazarmor_chestplate": "Topazarmor Body",
+      "item.sfm_.plutinum": "Plutinum Ingot",
+      "item.sfm_.copperarmor_helmet": "Copperarmor Helmet",
+      "item.sfm_.netherite_sword": "Netherite Sword",
+      "item.sfm_.dialard_armor_helmet": "Dialard Armor Шлем",
+      "advancements.ruby_activ.title": "Ruby Activ",
+      "advancements.cooper_activ.title": "Copper Activ",
+      "item.sfm_.ruby": "Ruby",
+      "item.sfm_.topaz_armor_3lvl_boots": "Topaz Armor 3lvl Ботинки",
+      "advancements.denselapis_activ.descr": "Craft Dense Lapis Lazuli Ore!",
+      "item.sfm_.bronze_armor_chestplate": "Bronze Armor Body",
+      "item.sfm_.topaz_armor_2lvl_chestplate": "Topaz Armor 2lvl Кираса",
+      "item.sfm_.plutinumarmorlvl_3_leggings": "Plutinumarmorlvl 3 Leggings",
+      "item.sfm_.plutinumarmor_chestplate": "Plutinumarmor Body",
+      "item.sfm_.copperarmor_chestplate": "Copperarmor Body",
+      "item.sfm_.ruby_armorlvl_3_boots": "Ruby Armorlvl 3 Boots",
+      "item.sfm_.dialard_armor_chestplate": "Dialard Armor Кираса",
+      "advancements.bronzeactive.descr": "Get the bronze in your inventory!",
+      "item.sfm_.time_earsedsword": "Time Cutter",
+      "item.sfm_.topaz_armor_3lvl_chestplate": "Topaz Armor 3lvl Кираса",
+      "item.sfm_.plutinumarmorlvl_3_boots": "Plutinumarmorlvl 3 Boots",
+      "item.sfm_.bronze_hoe": "Bronze Hoe",
+      "advancements.collector_ore.title": "Collector Ore",
+      "item.sfm_.copperpickaxe": "Copper Pickaxe",
+      "item.sfm_.rubyarmor_boots": "Rubyarmor Boots",
+      "advancements.netherite_scrap_ds.descr": "Ещё...",
+      "item.sfm_.plutinum_shovel": "Plutinum Shovel",
+      "item.sfm_.emeraldarmor_helmet": "Emerald Helmet",
+      "item.sfm_.diarald_shovel": "Diarald Shovel",
+      "item.sfm_.netherite_shovel": "Netherite Shovel",
+      "item.sfm_.diaraldarmorlvl_3_leggings": "Diarald Leggings (LvL 3)",
+      "block.sfm_.tin_block": "Tin Block",
+      "item.sfm_.topaz_armor_3lvl_helmet": "Topaz Armor 3lvl Шлем",
+      "item.sfm_.lapiscraft_3lvl_boots": "Lapiscraft 3lvl Ботинки",
+      "item.sfm_.diaraldarmorlvl_3_boots": "Diarald Boots (LvL 3)",
+      "advancements.topaz_activ.descr": "Найдите топазовую руду!",
+      "item.sfm_.lapiscraft_3lvl_helmet": "Lapiscraft 3lvl Шлем",
+      "item.sfm_.ruby_axe": "Ruby Axe",
+      "advancements.copper_activ.descr": "Get copper ore for later crafting!",
+      "item.sfm_.ruby_armorlvl_2_boots": "Ruby Boots LvL 2",
+      "item.sfm_.copperhoe": "Copperhoe",
+      "item.sfm_.ruby_armorlvl_3_chestplate": "Ruby Armorlvl 3 Body",
+      "item.sfm_.bronze_armor_leggings": "Bronze Armor Leggings"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "sfm_",
+    "modName": "SFM_01",
+    "version": "1.0.0",
+    "author": "Сергей, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.14.4",
+    "modElementsPackage": "net.mcreator.sfm",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

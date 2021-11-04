@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "sfm_:platonic_rapier"
+    },
+    "title": {
+      "translate": "advancements.rapira_activ.title"
+    },
+    "description": {
+      "translate": "advancements.rapira_activ.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "rapira_activ": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sfm_:platonic_rapier",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "sfm_:ruby_activ"
+}

@@ -1,0 +1,29 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:plutinum"
+    },
+    "1": {
+      "item": "sfm_:plutinum"
+    },
+    "2": {
+      "item": "sfm_:plutinum"
+    },
+    "3": {
+      "item": "sfm_:plutinum"
+    },
+    "5": {
+      "item": "sfm_:plutinum"
+    }
+  },
+  "result": {
+    "item": "sfm_:plutinumarmor_helmet",
+    "count": 1
+  }
+}

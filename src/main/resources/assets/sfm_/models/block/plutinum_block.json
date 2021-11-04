@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sfm_:blocks/plutinumblock",
+    "up": "sfm_:blocks/plutinumblock",
+    "north": "sfm_:blocks/plutinumblock",
+    "east": "sfm_:blocks/plutinumblock",
+    "south": "sfm_:blocks/plutinumblock",
+    "west": "sfm_:blocks/plutinumblock",
+    "particle": "sfm_:blocks/plutinumblock"
+  }
+}

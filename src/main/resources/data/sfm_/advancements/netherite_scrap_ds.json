@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "sfm_:netheritescrap"
+    },
+    "title": {
+      "translate": "advancements.netherite_scrap_ds.title"
+    },
+    "description": {
+      "translate": "advancements.netherite_scrap_ds.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "netherite_scrap_ds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sfm_:netheritescrap",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "sfm_:ruby_activ"
+}

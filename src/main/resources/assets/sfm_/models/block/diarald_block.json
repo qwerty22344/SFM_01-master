@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sfm_:blocks/diaraldblock3",
+    "up": "sfm_:blocks/diaraldblock2",
+    "north": "sfm_:blocks/diaraldblock",
+    "east": "sfm_:blocks/diaraldblock2",
+    "south": "sfm_:blocks/diaraldblock4",
+    "west": "sfm_:blocks/diaraldblock3",
+    "particle": "sfm_:blocks/diaraldblock3"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:denselapis"
+    },
+    "1": {
+      "item": "sfm_:denselapis"
+    },
+    "2": {
+      "item": "sfm_:denselapis"
+    },
+    "3": {
+      "item": "sfm_:denselapis"
+    },
+    "5": {
+      "item": "sfm_:denselapis"
+    }
+  },
+  "result": {
+    "item": "sfm_:lapisarmor_helmet",
+    "count": 1
+  }
+}

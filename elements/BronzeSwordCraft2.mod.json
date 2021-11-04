@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Tinore"
+      },
+      {
+        "value": "CUSTOM:Tinore"
+      },
+      {
+        "value": "CUSTOM:Tinore"
+      },
+      {
+        "value": "CUSTOM:Tinore"
+      },
+      {
+        "value": "CUSTOM:CopperSword"
+      },
+      {
+        "value": "CUSTOM:Tinore"
+      },
+      {
+        "value": "CUSTOM:Tinore"
+      },
+      {
+        "value": "CUSTOM:Tinore"
+      },
+      {
+        "value": "CUSTOM:Tinore"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BronzeSword"
+    },
+    "name": "bronze_sword_craft_2",
+    "namespace": "mod"
+  }
+}

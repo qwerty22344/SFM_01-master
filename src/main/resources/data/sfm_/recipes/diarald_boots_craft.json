@@ -1,0 +1,26 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:diarald"
+    },
+    "2": {
+      "item": "sfm_:diarald"
+    },
+    "3": {
+      "item": "sfm_:diarald"
+    },
+    "5": {
+      "item": "sfm_:diarald"
+    }
+  },
+  "result": {
+    "item": "sfm_:dialard_armor_boots",
+    "count": 1
+  }
+}

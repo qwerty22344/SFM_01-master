@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Plutinum"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Plutinum"
+      },
+      {
+        "value": "CUSTOM:PlutinumArmorlLvl2.boots"
+      },
+      {
+        "value": "CUSTOM:Plutinum"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Plutinum"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Plutinumarmorlvl3.boots"
+    },
+    "name": "plutinum_up_34",
+    "namespace": "mod"
+  }
+}

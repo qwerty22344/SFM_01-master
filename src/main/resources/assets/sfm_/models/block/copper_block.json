@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sfm_:blocks/copperblock",
+    "up": "sfm_:blocks/copperblock",
+    "north": "sfm_:blocks/copperblock",
+    "east": "sfm_:blocks/copperblock",
+    "south": "sfm_:blocks/copperblock",
+    "west": "sfm_:blocks/copperblock",
+    "particle": "sfm_:blocks/copperblock"
+  }
+}

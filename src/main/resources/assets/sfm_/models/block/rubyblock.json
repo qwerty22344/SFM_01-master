@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sfm_:blocks/ghgdfgdfg",
+    "up": "sfm_:blocks/ghgdfgdfg",
+    "north": "sfm_:blocks/ghgdfgdfg",
+    "east": "sfm_:blocks/ghgdfgdfg",
+    "south": "sfm_:blocks/ghgdfgdfg",
+    "west": "sfm_:blocks/ghgdfgdfg",
+    "particle": "sfm_:blocks/ghgdfgdfg"
+  }
+}

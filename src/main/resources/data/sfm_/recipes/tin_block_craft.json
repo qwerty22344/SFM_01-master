@@ -1,0 +1,42 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:tinore"
+    },
+    "1": {
+      "item": "sfm_:tinore"
+    },
+    "2": {
+      "item": "sfm_:tinore"
+    },
+    "3": {
+      "item": "sfm_:tinore"
+    },
+    "4": {
+      "item": "sfm_:tinore"
+    },
+    "5": {
+      "item": "sfm_:tinore"
+    },
+    "6": {
+      "item": "sfm_:tinore"
+    },
+    "7": {
+      "item": "sfm_:tinore"
+    },
+    "8": {
+      "item": "sfm_:tinore"
+    }
+  },
+  "result": {
+    "item": "sfm_:tin_block",
+    "count": 1
+  }
+}

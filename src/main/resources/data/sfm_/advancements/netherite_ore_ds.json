@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "sfm_:netheriteingot"
+    },
+    "title": {
+      "translate": "advancements.netherite_ore_ds.title"
+    },
+    "description": {
+      "translate": "advancements.netherite_ore_ds.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "netherite_ore_ds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sfm_:netheriteingot",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "sfm_:netherite_scrap_ds"
+}

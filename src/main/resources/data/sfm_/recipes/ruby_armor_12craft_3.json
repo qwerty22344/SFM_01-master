@@ -1,0 +1,30 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "sfm_:ruby"
+    },
+    "3": {
+      "item": "sfm_:ruby"
+    },
+    "4": {
+      "item": "sfm_:rubyarmor_leggings"
+    },
+    "5": {
+      "item": "sfm_:ruby"
+    },
+    "7": {
+      "item": "sfm_:ruby"
+    }
+  },
+  "result": {
+    "item": "sfm_:ruby_armorlvl_2_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:bronze"
+    },
+    "1": {
+      "item": "sfm_:bronze"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sfm_:bronze_hoe",
+    "count": 1
+  }
+}

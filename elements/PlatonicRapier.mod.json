@@ -1,0 +1,33 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "b1111111iez_imieni-1",
+    "customModelName": "Normal",
+    "name": "Platonic Rapier",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Sfmmod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 12.0,
+    "attackSpeed": 20.0,
+    "enchantability": 22,
+    "damageVsEntity": 3.0,
+    "usageCount": 620,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Plutinum"
+      },
+      {
+        "value": "CUSTOM:Plutinumsmall"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

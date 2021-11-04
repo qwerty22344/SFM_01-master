@@ -1,0 +1,39 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:topaz"
+    },
+    "2": {
+      "item": "sfm_:topaz"
+    },
+    "3": {
+      "item": "sfm_:topaz"
+    },
+    "4": {
+      "item": "sfm_:topaz"
+    },
+    "5": {
+      "item": "sfm_:topaz"
+    },
+    "6": {
+      "item": "sfm_:topaz"
+    },
+    "7": {
+      "item": "sfm_:topaz"
+    },
+    "8": {
+      "item": "sfm_:topaz"
+    }
+  },
+  "result": {
+    "item": "sfm_:topazarmor_chestplate",
+    "count": 1
+  }
+}

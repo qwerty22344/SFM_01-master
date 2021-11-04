@@ -1,0 +1,33 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "plutinum_axe",
+    "customModelName": "Normal",
+    "name": "Plutinum Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Sfmmod"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 2,
+    "efficiency": 8.0,
+    "attackSpeed": 1.0,
+    "enchantability": 22,
+    "damageVsEntity": 10.0,
+    "usageCount": 750,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Plutinum"
+      },
+      {
+        "value": "CUSTOM:Plutinumsmall"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

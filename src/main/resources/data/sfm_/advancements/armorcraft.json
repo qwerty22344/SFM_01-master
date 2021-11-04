@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "sfm_:netherite_armore_chestplate"
+    },
+    "title": {
+      "translate": "advancements.armorcraft.title"
+    },
+    "description": {
+      "translate": "advancements.armorcraft.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "armorcraft": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "sfm_:rapira_activ"
+}

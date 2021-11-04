@@ -1,0 +1,36 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:bronze"
+    },
+    "1": {
+      "item": "sfm_:bronze"
+    },
+    "2": {
+      "item": "sfm_:bronze"
+    },
+    "3": {
+      "item": "sfm_:bronze"
+    },
+    "5": {
+      "item": "sfm_:bronze"
+    },
+    "6": {
+      "item": "sfm_:bronze"
+    },
+    "8": {
+      "item": "sfm_:bronze"
+    }
+  },
+  "result": {
+    "item": "sfm_:bronze_armor_leggings",
+    "count": 1
+  }
+}

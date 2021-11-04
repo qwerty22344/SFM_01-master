@@ -1,0 +1,20 @@
+{
+  "time_skip": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sfm_:conscious_time_erasure",
+        "stream": false
+      }
+    ]
+  },
+  "ice": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sfm_:effekt-ledyanoy-magii-ataki-42414-_mp3cut.net_",
+        "stream": false
+      }
+    ]
+  }
+}

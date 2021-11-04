@@ -1,0 +1,60 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "lapishelmet",
+    "enableBody": true,
+    "textureBody": "lapischest",
+    "enableLeggings": true,
+    "textureLeggings": "lapislegs",
+    "enableBoots": true,
+    "textureBoots": "lapisboots",
+    "onBodyTick": {
+      "name": "LapisarmorBodyTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Sfmmod"
+    },
+    "armorTextureFile": "lapis_armor",
+    "helmetName": "Lapis Helmet",
+    "bodyName": "Lapis Body",
+    "leggingsName": "Lapis Leggings",
+    "bootsName": "Lapis Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Items.DYE#4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sfm_:copper_block"
+    }
+  ],
+  "result": {
+    "item": "sfm_:copper",
+    "count": 9
+  }
+}

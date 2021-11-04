@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sfm_:blocks/packed_ice",
+    "up": "sfm_:blocks/packed_ice",
+    "north": "sfm_:blocks/packed_ice",
+    "east": "sfm_:blocks/packed_ice",
+    "south": "sfm_:blocks/packed_ice",
+    "west": "sfm_:blocks/packed_ice",
+    "particle": "sfm_:blocks/packed_ice"
+  }
+}

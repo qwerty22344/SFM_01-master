@@ -1,0 +1,12 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:smelting",
+  "experience": 200,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "sfm_:ancientdebris"
+  },
+  "result": {
+    "item": "sfm_:netheritescrap"
+  }
+}

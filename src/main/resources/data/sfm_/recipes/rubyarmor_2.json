@@ -1,0 +1,39 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:ruby"
+    },
+    "2": {
+      "item": "sfm_:ruby"
+    },
+    "3": {
+      "item": "sfm_:ruby"
+    },
+    "4": {
+      "item": "sfm_:ruby"
+    },
+    "5": {
+      "item": "sfm_:ruby"
+    },
+    "6": {
+      "item": "sfm_:ruby"
+    },
+    "7": {
+      "item": "sfm_:ruby"
+    },
+    "8": {
+      "item": "sfm_:ruby"
+    }
+  },
+  "result": {
+    "item": "sfm_:rubyarmor_chestplate",
+    "count": 1
+  }
+}

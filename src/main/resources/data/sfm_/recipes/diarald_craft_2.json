@@ -1,0 +1,13 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sfm_:diarald_block"
+    }
+  ],
+  "result": {
+    "item": "sfm_:diarald",
+    "count": 9
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "group": "sfm_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "sfm_:copper"
+    },
+    "1": {
+      "item": "sfm_:copper"
+    },
+    "2": {
+      "item": "sfm_:copper"
+    },
+    "3": {
+      "item": "sfm_:copper"
+    },
+    "5": {
+      "item": "sfm_:copper"
+    }
+  },
+  "result": {
+    "item": "sfm_:copperarmor_helmet",
+    "count": 1
+  }
+}
